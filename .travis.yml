@@ -8,11 +8,11 @@ env:
 #cache: bundler
 before_install:
 - chmod +x ./cibuild
-- openssl aes-256-cbc -K $encrypted_5997fd602279_key -iv $encrypted_5997fd602279_iv
-  -in mygithub.enc -out mygithub -d
-- chmod 600 mygithub
-- eval $(ssh-agent -s)
-- ssh-add mygithub
+#- openssl aes-256-cbc -K $encrypted_5997fd602279_key -iv $encrypted_5997fd602279_iv
+#  -in mygithub.enc -out mygithub -d
+#- chmod 600 mygithub
+#- eval $(ssh-agent -s)
+#- ssh-add mygithub
 - gem install bundler:1.17.1
 branches:
   only:
