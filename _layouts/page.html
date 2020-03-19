@@ -20,6 +20,16 @@
       {% endfor %}
     {% endif %}
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3297855-5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-3297855-5');
+    </script>
+
     {% comment %}  {% css app %} {% endcomment %}
     {% feed_meta %}
     {% seo %}
