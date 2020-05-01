@@ -10,6 +10,7 @@ custom_js:
 <h2>Research Themes</h2>
 
 <ul>
+<li><em>Distributed and self-adaptive software systems</em></li>
 <li><em>Collective Adaptive Systems (CAS)</em>: programming models for programming CAS; aggregate computing.</li>
 <li><em>Edge Computing</em>: programming models to coordinate resources across the edge-fog-cloud continuum.</li>
 </ul>
