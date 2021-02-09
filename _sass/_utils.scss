@@ -223,6 +223,9 @@ footer {
   width: 100%;
 }
 
+.row .footer, footer .row, footer > .row { margin: 2% auto 2% auto; }
+
+
 .pic {
   border-radius: 50%;
   width: 60%;
