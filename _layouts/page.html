@@ -30,6 +30,8 @@
       gtag('config', 'UA-3297855-5');
     </script>
 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     {% comment %}  {% css app %} {% endcomment %}
     {% feed_meta %}
     {% seo %}
@@ -37,51 +39,89 @@
   <body>
     <div class="container-fluid">
 
-      <div class="row navContainer">
-        <div class="col-sm-4">
-          <h1 class="page-title"><!--<span class="first-letter">r</span>oberto<span class="first-letter">c</span>asadei-->robertocasadei.github.io</h1>
+      <div class="row mainContainer">
+        <div class="col-xs-12 col-sm-4 leftc lefty rounded-top">
         </div>
-        <div class="col-sm-8">
+      </div>
+
+      <div class="row navContainer d-flex align-items-center">
+        <div class="col-xs-12 col-md-4">
+          <h1 class="page-title"><!--<span class="first-letter">r</span>oberto<span class="first-letter">c</span>asadei-->roberto.casadei</h1>
+        </div>
+        <div class="col-xs-12 col-md-8">
           {% include nav.html %}
         </div>
       </div>
 
       <div class="row mainContainer">
-        <div class="col-sm-3 leftc">
-          <img class="pic" src="{{ '/assets/img/foto.jpg' | relative_url }}" alt="Profile Picture" />
+        <div class="col-sm-8 order-first order-md-last content">{{ content }}</div>
+
+        <div class="col-xs-12 col-sm-4 leftc lefty">
+          <!--<img class="pic" src="{{ '/assets/img/foto.jpg' | relative_url }}" alt="Profile Picture" />-->
           <ul class="pic-desc">
-          <li><em>Roberto Casadei</em>, PhD</li>
+          <li class="h4"><em>Roberto Casadei</em>, PhD</li>
           <li>Post-doctoral Researcher in Computer Science and Engineering
-            at Alma Mater Studiorum--Università di Bologna</li>
-            <li style="text-align: center;">
-              <a href="https://github.com/metaphori/" title="Roberto Casadei's GitHub Account"><i class="fab fa-github fa-2x"></i></a>
-              <a href="https://www.unibo.it/sitoweb/roby.casadei/en" title="Roberto Casadei's Institutional Website"><i class="fas fa-university fa-2x"></i></a>
-              <a href="https://stackoverflow.com/users/2250712/metaphori" title="Roberto Casadei's StackOverflow Website"><i class="fab fa-slack-hash fa-2x"></i></a>
-              <a href="https://slideshare.net/RobertoCasadei" title="Roberto Casadei's Slideshare"><i class="fab fa-slideshare fa-2x"></i></a>
-              <a href="https://scholar.google.it/citations?user=qhfWK44AAAAJ" title="Roberto Casadei's Scholar Profile"><i class="fas fa-graduation-cap fa-2x"></i></a>
-              <a href="https://dblp.uni-trier.de/pers/hd/c/Casadei:Roberto" title="Roberto Casadei's DBLP Profile"><i class="fas fa-pen-alt fa-2x"></i></a>
-              <a href="https://www.linkedin.com/in/robertocasadei/" title="Roberto Casadei's LinkedIn Profile"><i class="fab fa-linkedin fa-2x"></i></a>
-              <a href="mailto:name.surname90@gmail.com" title="Roberto Casadei's Email"><i class="fas fa-envelope fa-2x"></i></a>
-            </li>
+            at Alma Mater Studiorum&#x2013;Università di Bologna</li>
+          <li><span class="lbl">E-mail:</span> roby [dot] casadei [at] unibo [dot] it</li>
           </ul>
-        </div>
-        <div class="col-sm-6 content">{{ content }}</div>
-        <div class="col-sm-3 rightc">
-          <ul class="blog-posts">
-          {% assign i = 0 %}
-          {% for p in site.posts %}
-            {% assign i = i | plus:1 %}<a href="{{ p.url }}">
-            <li class="{% cycle 'odd', 'even' %}{% if p.url==page.url %} curr{% endif %}"><span class="post-title">{{ p.title }}</span>{{p.excerpt}}</li></a>
-          {% endfor %}
-          </ul>
+          <div class="mt-3 mb-3 text-center">
+            <a href="https://github.com/metaphori/" title="Roberto Casadei's GitHub Account"><i class="fab fa-github fa-2x"></i></a>
+            <a href="https://www.unibo.it/sitoweb/roby.casadei/en" title="Roberto Casadei's Institutional Website"><i class="fas fa-university fa-2x"></i></a>
+            <a href="https://stackoverflow.com/users/2250712/metaphori" title="Roberto Casadei's StackOverflow Website"><i class="fab fa-slack-hash fa-2x"></i></a>
+            <a href="https://slideshare.net/RobertoCasadei" title="Roberto Casadei's Slideshare"><i class="fab fa-slideshare fa-2x"></i></a>
+            <a href="https://scholar.google.it/citations?user=qhfWK44AAAAJ" title="Roberto Casadei's Scholar Profile"><i class="fas fa-graduation-cap fa-2x"></i></a>
+            <a href="https://dblp.uni-trier.de/pers/hd/c/Casadei:Roberto" title="Roberto Casadei's DBLP Profile"><i class="fas fa-pen-alt fa-2x"></i></a>
+            <a href="https://www.linkedin.com/in/robertocasadei/" title="Roberto Casadei's LinkedIn Profile"><i class="fab fa-linkedin fa-2x"></i></a>
+            <a href="mailto:name.surname90@gmail.com" title="Roberto Casadei's Email"><i class="fas fa-envelope fa-2x"></i></a>
+          </div>
+
+          <div class="col-xs-12 leftc">
+            <ul class="blog-posts">
+            {% assign i = 0 %}
+            {% for p in site.posts %}
+              {% assign i = i | plus:1 %}<a href="{{ p.url }}">
+              <li class="{% cycle 'odd', 'even' %}{% if p.url==page.url %} curr{% endif %}"><span class="post-title">{{ p.title }}</span>{{p.excerpt}}</li></a>
+            {% endfor %}
+            </ul>
+          </div>
         </div>
       </div>
 
       <div class="row footer">
-        <footer>
-        &copy; 2020 Roberto Casadei
+        <footer class="row align-items-center">
+          <div class="col-md-4 text-center">
+            <div class="mb-3"><span>&copy; 2021 Roberto Casadei</span></div>
+          </div>
+          <div class="col-md-8 row">
+              <div class="footerLinksColumn col-md-4 mb-2">
+                <span class="linksBoxTitle mb-4">Links</span>
+                <ul>
+                  <li><a href="https://www.unibo.it/sitoweb/roby.casadei/en">Institutional website</a></li>
+                  <li><a href="https://pslab-unibo.github.io/">Pervasive Software Lab</a></li>
+                </ul>
+              </div>
+              <div class="footerLinksColumn col-md-4 mb-2">
+                <span class="linksBoxTitle mb-4">Projects</span>
+                <ul>
+                  <li><a href="https://scafi.github.io/">ScaFi toolkit</a></li>
+                </ul>
+              </div>
+              <div class="footerLinksColumn col-md-4 mb-2">
+                <span class="linksBoxTitle mb-4">Miscellaneous</span>
+                <ul>
+                  <li><a href="https://slideshare.net/RobertoCasadei">My slideshare</a></li>
+                  <li><a href="https://scholar.google.it/citations?user=qhfWK44AAAAJ">My gscholar</a></li>
+                </ul>
+              </div>
+          </div>
         </footer>
       </div>
+
+      <div class="row mainContainer">
+        <div class="col-xs-12 col-sm-4 leftc lefty rounded-bottom mb-2">
+        </div>
+      </div>
+
     </div>
   </body>
 </html>

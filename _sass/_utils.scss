@@ -1,3 +1,20 @@
+$fontFamily: Palatino,Arial,sans-serif;
+$topColor: #456; // #6393ae
+$leftyColor: #66788d; // #e7f4fd;
+$navLinkTextColor: #889AAF;
+
+$lightTextColor: #ccc;
+$lighterTextColor: #fff;
+
+$footerBgColor: #456; // #555
+$footerColor: $lightTextColor;
+
+$fontawesomeIconColor: #b0d7ff;
+
+$leftMenuBgColorOdd: #788ba2;
+$leftMenuBgColorEven: $leftyColor;
+$leftMenuBlogLinkBorder: 1px solid $leftMenuBgColorOdd;
+
 /*******************/
 /*** RESET START ***/
 /*******************/
@@ -59,12 +76,13 @@ src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontaw
 body{
   background-color: #fff;
   padding-top: 20px;
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: $fontFamily; //'PT Sans Narrow', sans-serif;
 }
 
 .page-title {
+  text-align: center;
   color: #fff; // #9df;
-  font-family: 'fontawesome', sans-serif;
+  font-family: system-ui, 'fontawesome', sans-serif;
   font-size: 20pt;
   line-height:2.0em;
   font-weight: bold;
@@ -72,37 +90,63 @@ body{
   .first-letter { color: #fff; }
 }
 
+.navContainer {
+  background-color: $topColor;
+  padding: 5px;
+  // border-radius: 15px 15px 0px 0px;
+
+  //div { min-height: 100px; }
+  h1 { margin: auto auto auto auto; }
+}
+
+
 nav {
-  text-align: right;
-  padding: 10px;
+  text-align: center;
+  padding: 40px 10px 40px 10px;
 
   a {
     text-transform: uppercase;
     line-height:2.0em;
-    color: #A7BAE9;
-    font-weight: 700;
+    color: $navLinkTextColor;
+    font-weight: 500;
     font-size: 14pt;
-    font-family: 'fontawesome', sans-serif;
+    font-family: system-ui, 'fontawesome', sans-serif;
     letter-spacing: -0.05em;
   }
 
   a:hover {
-    color: #fff;
+    color: $lighterTextColor;
   }
 
   .selected_link:link, .selected_link:visited, .selected_link:active {
-    color: #fff;
+    color: $lightTextColor;
   }
 }
 
+.fab, .fas { color: $fontawesomeIconColor; }
+
 .mainContainer {
-  margin-top: 20px;
+  margin-left:10%;
+  margin-right:10%;
+  //margin-top: 20px;
   background-color: #fff;
-  font-family: 'PT Sans Narrow', sans-serif;
+  color: #888;
+  line-height:1.4em;
+  font-family: $fontFamily; //Roboto,Helevetica,Arial,sans-serif; // 'PT Sans Narrow', sans-serif;
 
   .leftc {
     padding: 10px;
     // background-color: #ededed;
+  }
+
+  // THIS IS THE LEFT COLUMN
+  .lefty {
+    background-color: $leftyColor;
+    padding-top:20px;
+    color: #ddd;
+
+    .lbl { font-weight: bold; }
+
   }
 
   h1 {
@@ -135,32 +179,49 @@ nav {
   hr { margin:2px; border-color: #ccc; margin-bottom: 12px; }
 
   .content {
-    font-family: "Tahoma", Arial, Serif;
+    padding: 2%;
+    font-family: $fontFamily;//"Tahoma", Arial, Serif;
     ul, ol {
       margin: 10px 0px 10px 0px;
     }
     ol li, ul li {  display: list-item; margin-left: 2.5em; margin-bottom: 10px; line-height: 1.3em; }
     ul li { list-style-type: square; }
     ol li { list-style-type: decimal; }
-    em { color: #666; font-style: italic; font-weight: bold; }
+    em { color: #000; font-weight: 500; }
     strong { font-weight: bold; color: #a00;}
+
+    .post-title { font-weight: bold; }
   }
 }
 
-.navContainer {
-  background-color: #076196;
-  padding: 5px;
-  // border-radius: 15px 15px 0px 0px;
-
-  //div { min-height: 100px; }
-  h1 { margin: auto auto auto auto; }
-}
-
 .footer {
-  background-color: #555;
-  padding: 20px;
-  color: #fff;
-  margin-top:10px;
+  background-color: $footerBgColor;
+  padding: 2%;
+  color: $footerColor;
+  font-family: $fontFamily;
+  //margin-top:10px;
+  font-size: 14pt;
+
+  a {
+    color: $lightTextColor;
+  }
+  a:hover {
+    color: $lighterTextColor;
+  }
+  .linksBoxTitle {
+    font-weight: bold;
+    color: $fontawesomeIconColor;
+    margin: 10px;
+  }
+  .footerLinksColumn{
+    text-align: center;
+  }
+  ul li { margin: 10px; }
+}
+footer {
+  display: block;
+  margin: auto 10% auto 10%;
+  width: 100%;
 }
 
 .pic {
@@ -173,10 +234,10 @@ nav {
 }
 
 .pic-desc {
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: $fontFamily; // 'PT Sans Narrow', sans-serif;
   ul { margin: 10px; }
   li { list-style: none; margin-bottom: 15px; }
-  em { font-weight: bold; }
+  em { font-weight: bold; color: $lighterTextColor; }
 }
 
 .links {
@@ -189,17 +250,31 @@ nav {
 }
 
 .blog-posts {
-  ul { }
-  li {
-    padding:8px 2px 4px 8px; color: #000;
-    margin-bottom:4px;
-    &:hover { background-color: #ededed; }
+  ul { list-style-type:none; }
+  li.odd {
+    //border-left: 8px solid #076196;
+    background-color: $leftMenuBgColorEven;
   }
-  li.odd { border-left: 8px solid #076196; }
-  li.even { border-left: 8px solid /*#ababab*/#076196; }
-  .post-title { font-weight: bold; color: #076196; }
-  li.curr { border-left: 8px solid #000; }
-  p { line-height:1em; font-size: 10pt; margin: 0; margin-top:2px; margin-bottom: 2px; }
+  li.even {
+    //border-left: 8px solid /*#ababab*/#076196;
+    background-color: $leftMenuBgColorEven;
+  }
+  li.curr {
+    background-color: $leftMenuBgColorOdd;
+  }
+  p { color: $lightTextColor; line-height:1em; font-size: 10pt; margin: 0; margin-top:2px; margin-bottom: 2px; }
+  li {
+    display: block;
+    padding:8px;
+    // color: #000;
+    border: $leftMenuBlogLinkBorder;
+    margin-top:-2px;
+    //margin-bottom:4px;
+    &:hover {
+      background-color: $leftMenuBgColorOdd;
+    }
+  }
+  .post-title { font-weight: bold; color: $lightTextColor; }
 }
 
 pre {
@@ -207,10 +282,15 @@ pre {
 }
 
 div.bibtexentry {
-  border-left:10px solid #ababab;
-  background-color: #ededed;
-  padding: 10px;
+  #border-left:10px solid #ababab;
+  #background-color: #ededed;
+  #padding: 10px;
   margin-bottom:10px;
   .year, .author { font-weight: 100; }
   .title { font-weight: bold; padding:0; }
+}
+
+h3.title {
+  border-bottom: 2px solid #999;
+  padding: 4px 0px 4px 0px;
 }

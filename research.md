@@ -20,6 +20,11 @@ custom_js:
 <h2>Publications</h2>
 
 <div class="bibtex_structure">
+  <div class="group year" extra="DESC number">
+    <h3 class="title"></h3>
+    <div class="templates"></div>
+  </div>                                                            
+<!--
   <div class="sections bibtextypekey">
     <div class="section @article">
       <h3>Journal Articles</h3>
@@ -46,22 +51,28 @@ custom_js:
       </div>
     </div>
   </div>
+-->
 </div>
 
 <div class="bibtex_template">
-  <div class="if author">
-    <span class="if booktitle"><span class="booktitle"></span>.</span>
-    <span class="if journal"><span class="journal"></span>.</span>
-    <span class="if year">
-      <span class="year"></span>.
-    </span>
-    <span class="author"><span class="first"></span> <span class="last"></span></span>
-    <span class="if url">
-      <a class="url">(view online)</a>
-    </span>
-  </div>
   <div>
     <span class="title"></span>
+  </div>
+  <div class="if author"><span class="author"><span class="first"></span> <span class="last"></span></span></div>
+  <span class="if booktitle"><span class="booktitle"></span>.</span>
+  <span class="if journal"><span class="journal"></span>.</span>
+  <span class="if year">
+    <span class="year"></span>.
+  </span>
+  <div class="if url">
+    <a class="bibtexVar" href="+URL+" extra="url">
+      <span class="url"></span>
+    </a>
+  </div>
+  <div class="if !url">
+    <div class="if doi">
+      <a class="bibtexVar" href="" extra="doi"><span class="doi"></span></a>
+    </div>
   </div>
 </div>
 
