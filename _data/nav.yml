@@ -2,10 +2,12 @@
   link: /
 #- name: About
 #  link: /about
-- name: Curriculum Vitae
-  link: /cv
 - name: Research
   link: /research
+- name: Teaching
+  link: /teaching
+- name: CV
+  link: /cv
 - name: Blog
   link: /blog
 #- name: Contacts

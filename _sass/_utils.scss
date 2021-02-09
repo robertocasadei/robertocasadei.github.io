@@ -196,7 +196,6 @@ nav {
 
 .footer {
   background-color: $footerBgColor;
-  padding: 2%;
   color: $footerColor;
   font-family: $fontFamily;
   //margin-top:10px;
@@ -220,7 +219,7 @@ nav {
 }
 footer {
   display: block;
-  margin: auto 10% auto 10%;
+  //margin: auto 10% auto 10%;
   width: 100%;
 }
 
