@@ -6,5 +6,5 @@ permalink: /cv/
 
 <!-- This page provides a succinct CV. -->
 
-- [One-page CV]({% link data/202001-onepage.pdf %}) (Jan, 2020; PDF format)
-- [Complete CV]({% link data/cv_2020.pdf %}) (Jan, 2020; PDF format)
+- [One-page CV]({% link data/onepage.pdf %}) (Feb, 2021; PDF format)
+- [Complete CV]({% link data/cv.pdf %}) (Feb, 2021; PDF format)
