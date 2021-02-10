@@ -1,3 +1,5 @@
+$mainMatterTextColor: #666;
+$mainMatterDarkerTextColor: #333;
 $fontFamily: Palatino,Arial,sans-serif;
 $topColor: #456; // #6393ae
 $navLinkTextColor: #d0e3f7;
@@ -140,7 +142,7 @@ nav {
   margin-right:10%;
   //margin-top: 20px;
   background-color: #fff;
-  color: #888;
+  color: $mainMatterTextColor;
   line-height:1.4em;
   font-family: $fontFamily; //Roboto,Helevetica,Arial,sans-serif; // 'PT Sans Narrow', sans-serif;
 
@@ -198,7 +200,7 @@ nav {
     ol li, ul li {  display: list-item; margin-left: 2.5em; margin-bottom: 10px; line-height: 1.3em; }
     ul li { list-style-type: square; }
     ol li { list-style-type: decimal; }
-    em { color: #000; font-weight: 500; }
+    em { color: $mainMatterDarkerTextColor; font-weight: 500; }
     strong { font-weight: bold; color: #a00;}
 
     .post-title { font-weight: bold; }
