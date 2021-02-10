@@ -6,6 +6,8 @@ permalink: /course-2020-21-phd-eics/
 
 # Engineering Intelligent Collective Systems (A.Y. 2020-21)
 
+Course offered in the context of the [Phd Program on Computer Science and Engineering @ UNIBO](https://disi.unibo.it/it/didattica/dottorati-di-ricerca/computer-science-and-engineering/corsi-del-dottorato-di-ricerca-in-computer-science-and-engineering/corsi-anno-accademico-2020-21).
+
 ## Syllabus
 
 **Course Title**: Engineering Intelligent Collective Systems
@@ -42,7 +44,7 @@ So, the idea of this program is to deliver three main parts:
 2. a coverage of _state-of-the-art approaches to programming_ such systems;
 3. a focus on _aggregate programming_ and related _tools_ for a more practical exposition of the presented ideas (laboratory-style).
 
-**Examination**: mini-projects in ScaFi-Alchemist (or other tools) or scientific reports (2-10 pages---e.g., mini-surveys, position papers, research ideas)
+**Examination**: exercises/mini-projects in ScaFi-Alchemist (or other tools) or scientific reports (approx. 2-8 pages -- e.g., in the form of mini-surveys or position papers -- inspecting research gaps, potential directions, or discussing preliminary ideas)
 
 ## Course Materials
 
