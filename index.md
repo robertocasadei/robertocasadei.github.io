@@ -3,16 +3,22 @@ layout: page
 title: Roberto Casadei's home
 ---
 
+<!--
 ## News
 
 - PhD Course on <em>Intelligent Collective Systems</em> coming soon!
+-->
 
-## Courses
+## Office hours
 
-- [17628 - Concurrent and Distributed Programming - 6 cfu (Tutor)](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/412598)
+- By appointment to be arranged by e-mail.
+
+## Active Courses
+
+- [PhD Course on Engineering Intelligent Collective Systems](/course-2020-21-phd-eics)
 - [70219 - Object-Oriented Programming (Module 3)](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/378219)
 
-## Service
+## Recent service roles
 
 - ACSOS'21 PC Member and Publicity Chair
 - eCAS'21 Workshop Chair
@@ -21,4 +27,4 @@ title: Roberto Casadei's home
 
 ## Theses
 
-- TODO: Proposals
+- Look at the [thesis proposals](/thesis-proposals)

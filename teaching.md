@@ -4,8 +4,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
+Looking for a thesis? Take a look at my [thesis proposals](/thesis-proposals).
+
 
 # Teaching
+
 
 ### a.y. 2020-21
 
