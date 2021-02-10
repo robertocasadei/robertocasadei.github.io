@@ -20,10 +20,11 @@ title: Roberto Casadei's home
 
 ## Recent service roles
 
-- ACSOS'21 PC Member and Publicity Chair
+- [ACSOS'21](http://2021.acsos.org/) PC Member and Publicity Chair
+- [PLDI'21](https://pldi21.sigplan.org/) Artifact Evaluation Committee Member
 - eCAS'21 Workshop Chair
-- COORDINATION'21 PC Member
-- CLOUD COMPUTING'21 PC Member
+- [COORDINATION'21](https://www.discotec.org/2021/coordination) PC Member
+- [CLOUD COMPUTING'21](https://www.iaria.org/conferences2021/CLOUDCOMPUTING21.html) PC Member
 
 ## Theses
 

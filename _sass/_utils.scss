@@ -84,15 +84,20 @@ body{
   font-family: $fontFamily; //'PT Sans Narrow', sans-serif;
 }
 
+
 .page-title {
   text-align: center;
-  color: #fff; // #9df;
+  color: #fa0; // #9df;
   font-family: system-ui, 'fontawesome', sans-serif;
   font-size: 20pt;
   line-height:2.0em;
   font-weight: bold;
 
   .first-letter { color: #fff; }
+}
+
+#subtitle  {
+  color: $lightTextColor;
 }
 
 .navContainer {
