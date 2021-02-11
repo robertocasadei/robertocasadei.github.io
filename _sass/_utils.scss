@@ -100,11 +100,18 @@ body{
 
 #subtitle  {
   color: $lightTextColor;
+  display: block;
+}
+
+#titlediv {
+  padding-top: 20px;
 }
 
 .navContainer {
   background-color: $topColor;
   padding: 5px;
+  padding-left:10%;
+  padding-right:10%;
   // border-radius: 15px 15px 0px 0px;
 
   //div { min-height: 100px; }
