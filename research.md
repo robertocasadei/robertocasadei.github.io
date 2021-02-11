@@ -20,6 +20,8 @@ custom_js:
 
 ## Publications
 
+Click on the symbol <i class="fas fa-info-circle"></i> for a paper commentary.
+
 <div class="bibtex_structure">
   <div class="group year" extra="DESC number">
     <h3 class="title"></h3>
