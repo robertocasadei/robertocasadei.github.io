@@ -13,10 +13,16 @@ title: Roberto Casadei's home
 
 - By appointment to be arranged by e-mail.
 
-## Active Courses
+## Active courses
 
 - [PhD Course on Engineering Intelligent Collective Systems](/course-2020-21-phd-eics)
 - [70219 - Object-Oriented Programming (Module 3)](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/378219)
+
+## Research themes
+
+- _Self-* software systems_: architectures and models for self-adaptation and self-organisation.
+- *Collective Intelligence*: programming models for programming collective adaptive systems; aggregate computing.
+- *IoT &amp; Edge Computing*: programming models to express computations and coordinate resources across the IoT-edge-fog-cloud continuum.
 
 ## Recent service roles
 
