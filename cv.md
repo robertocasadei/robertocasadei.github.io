@@ -35,3 +35,23 @@ Journal of Systems and Software. 2021. <https://doi.org/10.1016/j.jss.2021.11090
 - *Awards for artifacts*: IEEE TCSC Outstanding PhD Dissertation Award 2020
 - *Scholarships*: Computer Science and Engineering PhD Scholarship (MIUR, 3 years); Scholarship on "Software Infrastructures for the Management of IoT Systems" (Orizzonti Holding); Scholarship for meritorious UNIBO students
 - *Travel grants*: Travel/Conference Grant (DisCoTec 2019); Mobility Grant (Marco Polo 2016); Travel/Conference Grant (Scala Symposium 2016);
+
+# Metrics
+
+<!-- CODERSRANK WIDGETS -->
+<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
+<!--<script src="https://unpkg.com/@codersrank/activity@x.x.x/codersrank-activity.min.js"></script>-->
+<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+
+<div class="mt-3">
+  <codersrank-summary username="metaphori" layout="horizontal"  branding="false"></codersrank-summary>
+</div>
+<!--
+<div class="mt-4">
+  <codersrank-activity username="metaphori" labels legend tooltip branding="false" step="5" weeks="26"></codersrank-activity>
+</div>
+-->
+<div class="mt-4">
+  <codersrank-skills-chart username="metaphori" branding="false" label legend tooltip layout="horizontal"
+  skills="Scala,Java,Kotlin,C,C++,Ruby,Python,Bash,Haskell,Erlang,C#,Javascript,NodeJS,HTML,CSS,Other" show-other-skills="true"></codersrank-skills-chart>
+</div>
