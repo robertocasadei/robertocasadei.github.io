@@ -2,6 +2,7 @@
 layout: page
 title: Curriculum Vitae
 permalink: /cv/
+description: Roberto Casadei's curriculum vitae and portfolio (including academic activity, professional activity, software artifacts, awards, publications).
 ---
 
 <!-- This page provides a succinct CV. -->
@@ -22,7 +23,7 @@ permalink: /cv/
 
 Some selected publications follow. For the complete list, refer to the [Research section](/research).
 
-- *Engineering collective intelligence at the edge with aggregate processes*. Roberto Casadei, Mirko Viroli, Giorgio Audrito, Danilo Pianini, and Ferruccio Damiani. 
+- *Engineering collective intelligence at the edge with aggregate processes*. Roberto Casadei, Mirko Viroli, Giorgio Audrito, Danilo Pianini, and Ferruccio Damiani.
 Engineering Applications of Artificial Intelligence. 2021. <https://doi.org/10.1016/j.engappai.2020.104081>
 - *From distributed coordination to field calculus and aggregate computing*. Mirko Viroli, Jacob Beal, Ferruccio Damiani, Giorgio Audrito, Roberto Casadei, and Danilo Pianini. Journal of Logical and Algebraic Methods in Programming. 2019.
 - *Partitioned integration and coordination via the self-organising coordination regions pattern*. Danilo Pianini, Roberto Casadei, Mirko Viroli, and Antonio Natali. Future Generation Computer Systems. 2020.

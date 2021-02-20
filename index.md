@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Roberto Casadei's home
+description: Roberto Casadei's Professional Website: it includes his recent academic and professional activity, CV, portfolio, and blog.
 ---
 
 <!--

@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+description: Roberto Casadei's present and past teaching activities (e.g., academic courses at UNIBO and more).
 ---
 
 Looking for a thesis? Take a look at my [thesis proposals](/thesis-proposals).

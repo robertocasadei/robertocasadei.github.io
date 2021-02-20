@@ -6,6 +6,7 @@ custom_js:
 - https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 - /assets/js/bootstrap.bundle.min.js
 - https://cdn.rawgit.com/pcooksey/bibtex-js/5ccf967/src/bibtex_js.js
+description: Roberto Casadei's research themes and peer-reviewed publications.
 ---
 
 # Research
