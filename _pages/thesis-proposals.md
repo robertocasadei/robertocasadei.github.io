@@ -8,13 +8,15 @@ permalink: /thesis-proposals/
 
 Take a look at my [research activity](/research) and contact me via e-mail for thesis proposals.
 
-## Master's Theses
+Kinds of thesis:
 
-- TBD
+- *Research-oriented* -- these aim at providing (small) contributions to the state of the art in some target field;
+- *Software engineering projects* -- these are works aimed at developing complex software (cf., distributed systems);
+- *Surveys / Systematic Literature Reviews* -- the works include a comprehensive study of the literature (e.g., on self-* systems, multi-agent systems, collective intelligence) and an original synthesis (e.g., in terms of a taxonomy, learned lessons, challenges and opportunities).
 
-## Bachelor's Theses
+## Proposals
 
-- TBD
+- *Graphical application monitoring and debugging* -- with links to Model@Runtime
 
 ## Past co-supervised theses
 
