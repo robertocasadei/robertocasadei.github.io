@@ -16,6 +16,7 @@ Kinds of thesis:
 
 ## Proposals
 
+- *Integration of ScaFi and the ARGoS Robot Simulator*
 - *Graphical application monitoring and debugging* -- with links to Model@Runtime
 
 ## Past co-supervised theses
