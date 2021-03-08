@@ -29,8 +29,9 @@ description: Roberto Casadei's Professional Website: it includes his recent acad
 
 - [ACSOS'21](http://2021.acsos.org/) PC Member and Publicity Chair
 - [PLDI'21](https://pldi21.sigplan.org/) Artifact Evaluation Committee Member
-- eCAS'21 Workshop Chair
+- [eCAS'21](https://ecas2021.apice.unibo.it) Workshop Chair
 - [COORDINATION'21](https://www.discotec.org/2021/coordination) PC Member
+- [MODELS'21 - ACM Student Research Competition](https://conf.researchr.org/track/models-2021/models-2021-acm-student-research-competition) PC Member
 - [CLOUD COMPUTING'21](https://www.iaria.org/conferences2021/CLOUDCOMPUTING21.html) PC Member
 
 ## Theses
