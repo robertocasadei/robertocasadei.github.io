@@ -46,6 +46,11 @@ So, the idea of this program is to deliver three main parts:
 
 *Slides and papers* -- to be provided.
 
+Some references:
+
+- *Malone, Thomas W., and Michael S. Bernstein, eds. Handbook of collective intelligence. MIT Press, 2015.*
+- *Szuba, Tadeusz M. Computational collective intelligence. John Wiley & Sons, Inc., 2001.*
+
 ## Schedule
 
 The course will be delivered in **October**.
