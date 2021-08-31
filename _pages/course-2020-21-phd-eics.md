@@ -44,7 +44,7 @@ So, the idea of this program is to deliver three main parts:
 
 ## Course Materials
 
-**Slides and papers** -- to be provided.
+*Slides and papers* -- to be provided.
 
 ## Schedule
 
