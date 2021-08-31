@@ -19,18 +19,14 @@ The pervasiveness of computing and networking is creating significant opportunit
 
 **Tentative program** (9 hours to be distributed in 2-3 lectures):
 
- - 3h: Introduction and background to Collective Adaptive Systems (CAS)
-     - Elements of systems theory
-     - Multi-agent systems
+ - 3h: Introduction to collective systems and collective intelligence
+     - Collective intelligence
+     - Focus on computational collective intelligence
+     - Collective adaptive systems
+ - 3h: Elements of collective intelligence engineering
      - Coordination
-     - Self-* systems
-     - Spatial computing
-     - (Computational) Collective Intelligence
- - 3h: CAS: concepts and state-of-the-art
-     - Concepts and definitions
-     - Coordination mechanisms: collective interfaces, attribute-based communication, ...
      - Macroprogramming
-     - Ensemble-based approaches
+     - Emergent behaviours
      - Aggregate Computing
  - 3h: The ScaFi-Alchemist toolchain for simulating aggregate systems: a tutorial
      - Field Calculus
@@ -48,8 +44,10 @@ So, the idea of this program is to deliver three main parts:
 
 ## Course Materials
 
-Slides -- to be provided.
+**Slides and papers** -- to be provided.
 
 ## Schedule
+
+The course will be delivered in **October**.
 
 To be agreed with PhD students.
