@@ -17,9 +17,10 @@ Course offered in the context of the [Phd Program on Computer Science and Engine
 **Abstract**:
 The pervasiveness of computing and networking is creating significant opportunities for building valuable socio-technical systems. In particular, we are witnessing the emergence of artificial collectives, i.e., (large-scale) ensembles of (partially) autonomous interacting devices. Examples include computational ecosystems (like cloud data centers), crowds of augmented people, swarms of robots. Indeed, beyond what can be provided by individual smart devices, cyber-physical collectives can enable services or solve complex problems by leveraging a “system effect” emerging while coordinating and adapting to environment change. Therefore, understanding and building systems exhibiting collective intelligence and autonomic capabilities represents a prominent research goal,  with contributions from several fields ranging from coordination to swarm intelligence, from multi-agent to self-* systems. In this short cycle of lectures, we will take a look at concepts and approaches contributing to the engineering of (computational) collective intelligence, or so-called collective adaptive systems. In the second part, we will focus on aggregate computing, a toolchain-backed macro-programming paradigm to  model collective behaviour as a functional composition of field computations, and perform experiments in the ScaFi-Alchemist framework.
 
-**Tentative program** (9 hours to be distributed in 2-3 lectures):
+**(Tentative) Program** (9 hours to be distributed in 2-3 lectures):
 
  - 3h: Introduction to collective systems and collective intelligence
+     - Preliminary notions on collectives and intelligence
      - Collective intelligence
      - Focus on computational collective intelligence
      - Collective adaptive systems
@@ -51,8 +52,14 @@ Some references:
 - *Malone, Thomas W., and Michael S. Bernstein, eds. Handbook of collective intelligence. MIT Press, 2015.*
 - *Szuba, Tadeusz M. Computational collective intelligence. John Wiley & Sons, Inc., 2001.*
 
+## Registration
+
+Please use [this registration form](https://forms.gle/meVxFJGevogDxqBp9).
+
 ## Schedule
 
-The course will be delivered in **October**.
+The course will be delivered in **October** in 3 slots, to be agreed with PhD students.
 
-To be agreed with PhD students.
+1. Thursday, 7 October 2021 (10:00 -- 13:00)
+2. TBD
+3. TBD
