@@ -18,6 +18,8 @@ Kinds of thesis:
 
 - *Integration of ScaFi and the ARGoS Robot Simulator*
 - *Graphical application monitoring and debugging* -- with links to Model@Runtime
+- *Investigations on aspects related to "collective intelligence"*
+- *Investigations on non-conventional programming paradigms*
 
 ## Past co-supervised theses
 

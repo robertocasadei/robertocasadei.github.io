@@ -7,13 +7,17 @@ description: Roberto Casadei's present and past teaching activities (e.g., acade
 
 Looking for a thesis? Take a look at my [thesis proposals](/thesis-proposals).
 
-
 # Teaching
 
+### a.y. 2021-22
+
+- [09730 - Foundations of Informatics](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/384455)
+- [70219 - Object-Oriented Programming (Module 3)](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/378219)
 
 ### a.y. 2020-21
 
 - [PhD Course on Engineering Intelligent Collective Systems](/course-2020-21-phd-eics)
+- [15305 - Foundations of Informatics A (Module 2)](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/384455)
 - [70219 - Object-Oriented Programming (Module 3)](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/378219)
 - [17628 - Concurrent and Distributed Programming - 6 cfu (Tutor)](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/412598)
 
