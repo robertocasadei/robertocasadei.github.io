@@ -14,6 +14,17 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 - PhD Course on <em>Intelligent Collective Systems</em> coming soon!
 -->
 
+<div class="bio">
+  <ul class="pic-desc">
+  <li class="h4"><em>Roberto Casadei</em>, PhD</li>
+  <li><em>Post-doctoral Researcher</em> in Computer Science and Engineering
+    and <em>Adjunct Professor</em> at Alma Mater Studiorum&#x2013;Università di Bologna</li>
+  <li><span class="lbl"><i class="fas fa-envelope"></i> E-mail:</span> roby [dot] casadei [at] unibo [dot] it</li>
+  <li><span class="lbl"><i class="fas fa-map-marker-alt"></i> Offices:</span> Cesena, Italy</li>
+  </ul>
+</div>
+
+
 ## Office hours
 
 - By appointment to be arranged by e-mail.
