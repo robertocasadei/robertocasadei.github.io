@@ -11,7 +11,7 @@ $footerBgColor: #456; // #555
 $footerColor: $lightTextColor;
 $footerLinkTextColor: $navLinkTextColor;
 
-$fontawesomeIconColor: #b0d7ff;
+$fontawesomeIconColor: #a00;
 
 $leftyBgColor: #66788d; // #e7f4fd;
 $leftyTextColor: $lightTextColor;
@@ -104,7 +104,9 @@ body{
 }
 
 #titlediv {
-  padding-top: 20px;
+  //padding-top: 20px;
+  // padding: 40px 10px 40px 10px;
+  h1 { margin:0; padding: 0; }
 }
 
 .navContainer {
@@ -115,13 +117,14 @@ body{
   // border-radius: 15px 15px 0px 0px;
 
   //div { min-height: 100px; }
-  h1 { margin: auto auto auto auto; }
+  // h1 { margin: auto auto auto auto; }
 }
 
 
 nav {
   text-align: center;
-  padding: 40px 10px 40px 10px;
+  // padding: 40px 10px 40px 10px;
+  padding: 5px 5px 5px 5px;
 
   a {
     text-transform: uppercase;
@@ -140,10 +143,6 @@ nav {
   .selected_link:link, .selected_link:visited, .selected_link:active {
     color: $lighterTextColor;
   }
-}
-
-.badges {
-  .fab, .fas { color: $fontawesomeIconColor; }
 }
 
 .mainContainer {
@@ -171,12 +170,6 @@ nav {
 
     a.twitter-timeline { color: $lightTextColor; }
     a.twitter-timeline:hover { color: $lighterTextColor; }
-  }
-
-  .bio {
-    border: 1px dashed $lightTextColor;
-    border-radius: 5%;
-    padding: 2%;
   }
 
   h1 {
@@ -221,6 +214,23 @@ nav {
     strong { font-weight: bold; color: #a00;}
 
     .post-title { font-weight: bold; }
+
+    .pic-desc {
+      font-family: $fontFamily; // 'PT Sans Narrow', sans-serif;
+      ul { margin: 0px; }
+      li { list-style: none; margin: 5px; }
+      em { font-weight: bold; /*color: $lighterTextColor;*/ }
+    }
+
+    .bio {
+      border: 1px dashed /*$lightTextColor*/;
+      border-radius: 5%;
+      padding: 2%;
+    }
+
+    .badges {
+      .fab, .fas { color: $fontawesomeIconColor; }
+    }
   }
 }
 
@@ -265,13 +275,6 @@ footer {
   margin-right: auto;
   margin-bottom: 10px;
   display: block;
-}
-
-.pic-desc {
-  font-family: $fontFamily; // 'PT Sans Narrow', sans-serif;
-  ul { margin: 10px; }
-  li { list-style: none; margin-bottom: 15px; }
-  em { font-weight: bold; color: $lighterTextColor; }
 }
 
 .links {

@@ -22,6 +22,17 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
   <li><span class="lbl"><i class="fas fa-envelope"></i> E-mail:</span> roby [dot] casadei [at] unibo [dot] it</li>
   <li><span class="lbl"><i class="fas fa-map-marker-alt"></i> Offices:</span> Cesena, Italy</li>
   </ul>
+
+  <div class="mt-3 mb-3 badges"> <!-- text-center -->
+    <a href="https://github.com/metaphori/" title="Roberto Casadei's GitHub Account"><i class="fab fa-github fa-2x"></i></a>
+    <a href="https://www.unibo.it/sitoweb/roby.casadei/en" title="Roberto Casadei's Institutional Website"><i class="fas fa-university fa-2x"></i></a>
+    <a href="https://stackoverflow.com/users/2250712/metaphori" title="Roberto Casadei's StackOverflow Website"><i class="fab fa-slack-hash fa-2x"></i></a>
+    <a href="https://slideshare.net/RobertoCasadei" title="Roberto Casadei's Slideshare"><i class="fab fa-slideshare fa-2x"></i></a>
+    <a href="https://scholar.google.it/citations?user=qhfWK44AAAAJ" title="Roberto Casadei's Scholar Profile"><i class="fas fa-graduation-cap fa-2x"></i></a>
+    <a href="https://dblp.uni-trier.de/pers/hd/c/Casadei:Roberto" title="Roberto Casadei's DBLP Profile"><i class="fas fa-pen-alt fa-2x"></i></a>
+    <a href="https://www.linkedin.com/in/robertocasadei/" title="Roberto Casadei's LinkedIn Profile"><i class="fab fa-linkedin fa-2x"></i></a>
+    <a href="mailto:name.surname90@gmail.com" title="Roberto Casadei's Email"><i class="fas fa-envelope fa-2x"></i></a>
+  </div>
 </div>
 
 
