@@ -40,12 +40,11 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 - By appointment to be arranged by e-mail.
 
-<!--
-## Active courses
+## Currently taught courses
 
-- [PhD Course on Engineering Intelligent Collective Systems](/course-2020-21-phd-eics)
-- [70219 - Object-Oriented Programming (Module 3)](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/378219)
--->
+- [09730 - Foundations of Informatics](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/469199)
+- [98214 - Intelligent Cyber-Physical Systems (Module 2)](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/476831)
+- [70219 - Object-Oriented Programming (Module 3)](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/378219)
 
 ## Research themes
 
@@ -55,15 +54,15 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 ## Recent service roles
 
-- ACSOS'22 Publication Chair
-- COORDINATION'22 Artifact Evaluation Committee Member
+- [ACSOS'22 PC Member and Proceedings Chair](https://2022.acsos.org/committee/acsos-2022-organizing-committee)
+- [COORDINATION'22 Artifact Evaluation Committee Member](https://www.discotec.org/2022/coordination)
 - [DISCOLI'22 (DIStributed COLlective Intelligence)](https://discoli-workshop.github.io/2022/) Workshop Chair
-- [ACSOS'21](http://2021.acsos.org/) PC Member and Publicity Chair
 - [PLDI'21](https://pldi21.sigplan.org/) Artifact Evaluation Committee Member
 - [eCAS'21](https://ecas2021.apice.unibo.it) Workshop Chair
-- [COORDINATION'21](https://www.discotec.org/2021/coordination) PC Member
 
 <!--
+- [ACSOS'21](http://2021.acsos.org/) PC Member and Publicity Chair
+- [COORDINATION'21](https://www.discotec.org/2021/coordination) PC Member
 - [MODELS'21 - ACM Student Research Competition](https://conf.researchr.org/track/models-2021/models-2021-acm-student-research-competition) PC Member
 - [CLOUD COMPUTING'21](https://www.iaria.org/conferences2021/CLOUDCOMPUTING21.html) PC Member
 -->

@@ -11,7 +11,8 @@ Looking for a thesis? Take a look at my [thesis proposals](/thesis-proposals).
 
 ### a.y. 2021-22
 
-- [09730 - Foundations of Informatics](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2020/384455)
+- [09730 - Foundations of Informatics](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/469199)
+- [98214 - Intelligent Cyber-Physical Systems (Module 2)](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/476831)
 - [70219 - Object-Oriented Programming (Module 3)](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/378219)
 
 ### a.y. 2020-21
