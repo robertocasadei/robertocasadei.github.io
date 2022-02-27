@@ -9,8 +9,9 @@ description: Roberto Casadei's curriculum vitae and portfolio (including academi
 
 # Curriculum Vitae
 
-- [One-page CV]({% link data/onepage.pdf %}) (Feb, 2021; PDF format)
-- [Complete CV]({% link data/cv.pdf %}) (Feb, 2021; PDF format)
+- [Complete CV]({% link data/cv.pdf %}) (Feb, 2022; PDF format)
+
+<!-- - [One-page CV]({% link data/onepage.pdf %}) (Feb, 2021; PDF format) -->
 
 
 # Portfolio
