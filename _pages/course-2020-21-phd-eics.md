@@ -17,7 +17,7 @@ Course offered in the context of the [Phd Program on Computer Science and Engine
 **Abstract**:
 The pervasiveness of computing and networking is creating significant opportunities for building valuable socio-technical systems. In particular, we are witnessing the emergence of artificial collectives, i.e., (large-scale) ensembles of (partially) autonomous interacting devices. Examples include computational ecosystems (like cloud data centers), crowds of augmented people, swarms of robots. Indeed, beyond what can be provided by individual smart devices, cyber-physical collectives can enable services or solve complex problems by leveraging a “system effect” emerging while coordinating and adapting to environment change. Therefore, understanding and building systems exhibiting collective intelligence and autonomic capabilities represents a prominent research goal,  with contributions from several fields ranging from coordination to swarm intelligence, from multi-agent to self-* systems. In this short cycle of lectures, we will take a look at concepts and approaches contributing to the engineering of (computational) collective intelligence, or so-called collective adaptive systems. In the second part, we will focus on aggregate computing, a toolchain-backed macro-programming paradigm to  model collective behaviour as a functional composition of field computations, and perform experiments in the ScaFi-Alchemist framework.
 
-**(Tentative) Program** (10 hours to be distributed in 2-3 lectures):
+**Program** (10 hours to be distributed in 2-3 lectures):
 
  - 3h: Introduction to collective systems and collective intelligence
      - Preliminary notions on collectives and intelligence
@@ -58,8 +58,8 @@ Please use [this registration form](https://forms.gle/meVxFJGevogDxqBp9).
 
 ## Schedule
 
-The course will be delivered in **November/December** in 3 slots, to be agreed with PhD students.
+The course will be delivered in **November 2021 / January 2022** in 3 slots, to be agreed with PhD students.
 
-1. Friday, 26 November 2021 (10:00 -- 13:00)
-2. TBD
-3. TBD
+1. 26 November 2021 (10:00 -- 13:00)
+2. 10 December 2022 (10:00 -- 13:00)
+3. 13 January 2022 (09:00 - 13:00)
