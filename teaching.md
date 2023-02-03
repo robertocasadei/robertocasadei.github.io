@@ -5,9 +5,15 @@ permalink: /teaching/
 description: Roberto Casadei's present and past teaching activities (e.g., academic courses at UNIBO and more).
 ---
 
-Looking for a thesis? Take a look at my [thesis proposals](/thesis-proposals).
+Looking for a thesis? Take a look at my [thesis proposals](/thesis-proposals) and [thesis guidelines/template](https://github.com/metaphori/template-latex-thesis).
 
 # Teaching
+
+### a.y. 2022-23
+
+- [09730 -  Principles of Informatics - 6 cfu, 15305 - Foundations of Informatics A - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/482466)
+- [95648 - Software Design and Development - 9 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/466792)
+- [70219 - Object-Oriented Programming - Module 3](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/378219)
 
 ### a.y. 2021-22
 

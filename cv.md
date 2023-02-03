@@ -24,8 +24,8 @@ description: Roberto Casadei's curriculum vitae and portfolio (including academi
 
 Some selected publications follow. For the complete list, refer to the [Research section](/research).
 
-- *Engineering collective intelligence at the edge with aggregate processes*. Roberto Casadei, Mirko Viroli, Giorgio Audrito, Danilo Pianini, and Ferruccio Damiani.
-Engineering Applications of Artificial Intelligence. 2021. <https://doi.org/10.1016/j.engappai.2020.104081>
+- *Macroprogramming: Concepts, State of the Art, and Opportunities of Macroscopic Behaviour Modelling*. Roberto Casadei. ACM Computing Surveys. 2023. <https://dl.acm.org/doi/10.1145/3579353>
+- *Engineering collective intelligence at the edge with aggregate processes*. Roberto Casadei, Mirko Viroli, Giorgio Audrito, Danilo Pianini, and Ferruccio Damiani. Engineering Applications of Artificial Intelligence. 2021. <https://doi.org/10.1016/j.engappai.2020.104081>
 - *From distributed coordination to field calculus and aggregate computing*. Mirko Viroli, Jacob Beal, Ferruccio Damiani, Giorgio Audrito, Roberto Casadei, and Danilo Pianini. Journal of Logical and Algebraic Methods in Programming. 2019.
 - *Partitioned integration and coordination via the self-organising coordination regions pattern*. Danilo Pianini, Roberto Casadei, Mirko Viroli, and Antonio Natali. Future Generation Computer Systems. 2020.
 - *Adaptive distributed monitors of spatial properties for cyber-physical systems*. Giorgio Audrito, Roberto Casadei, Ferruccio Damiani, Volker Stolz, and Mirko Viroli.
@@ -33,10 +33,11 @@ Journal of Systems and Software. 2021. <https://doi.org/10.1016/j.jss.2021.11090
 
 ## Awards and Scholarships
 
-- *Awards*: Best master graduate student (G.Bassi 2017 prize)
-- *Awards for artifacts*: IEEE TCSC Outstanding PhD Dissertation Award 2020
+- *Research Awards*: IEEE TCSC Outstanding PhD Dissertation Award 2020. ECOOP Distinguished Artifact Award 2022
 - *Scholarships*: Computer Science and Engineering PhD Scholarship (MIUR, 3 years); Scholarship on "Software Infrastructures for the Management of IoT Systems" (Orizzonti Holding); Scholarship for meritorious UNIBO students
 - *Travel grants*: Travel/Conference Grant (DisCoTec 2019); Mobility Grant (Marco Polo 2016); Travel/Conference Grant (Scala Symposium 2016);
+- *Student Awards*: Best master graduate student (G.Bassi 2017 prize)
+
 
 # Metrics
 

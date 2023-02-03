@@ -5,5 +5,7 @@ permalink: /about/
 ---
 
 My name is Roberto Casadei.
-I got a PhD in Computer Science and Engineering from Alma Mater Studiorum - Università di Bologna.
-My research interests include programming languages and paradigms, distributed computing, self-adaptive computing, collective intelligence and systemics. My current research effort revolves around Aggregate Computing, a paradigm for programming Collective Adaptive Systems (CAS).
+I am an assistant professor at the Department of Computer Science and Engineering at Alma Mater Studiorum - Università di Bologna.
+I got a PhD in Computer Science and Engineering from the same university.
+My research interests revolve around software engineering for self-adaptive systems and collective intelligence. My current research effort focusses on Aggregate Computing and related scientific/engineering issues.
+
