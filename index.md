@@ -42,9 +42,9 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 ## Currently taught courses
 
-- [09730 - Foundations of Informatics](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/469199)
-- [98214 - Intelligent Cyber-Physical Systems (Module 2)](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/476831)
-- [70219 - Object-Oriented Programming (Module 3)](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/378219)
+- [09730 -  Principles of Informatics - 6 cfu, 15305 - Foundations of Informatics A - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/482466)
+- [95648 - Software Design and Development - 9 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/466792)
+- [70219 - Object-Oriented Programming - Module 3](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/378219)
 
 ## Research themes
 
@@ -54,13 +54,16 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 ## Recent service roles
 
+- [DISCOLI'23 (DIStributed COLlective Intelligence)](https://discoli-workshop.github.io/2022/) Workshop Chair
+- [DisCoTec'23 Artifact Evaluation Committee Chair](https://www.discotec.org/2023/)
 - [ACSOS'22 PC Member and Proceedings Chair](https://2022.acsos.org/committee/acsos-2022-organizing-committee)
+
+
+<!--
 - [COORDINATION'22 Artifact Evaluation Committee Member](https://www.discotec.org/2022/coordination)
 - [DISCOLI'22 (DIStributed COLlective Intelligence)](https://discoli-workshop.github.io/2022/) Workshop Chair
 - [PLDI'21](https://pldi21.sigplan.org/) Artifact Evaluation Committee Member
 - [eCAS'21](https://ecas2021.apice.unibo.it) Workshop Chair
-
-<!--
 - [ACSOS'21](http://2021.acsos.org/) PC Member and Publicity Chair
 - [COORDINATION'21](https://www.discotec.org/2021/coordination) PC Member
 - [MODELS'21 - ACM Student Research Competition](https://conf.researchr.org/track/models-2021/models-2021-acm-student-research-competition) PC Member
