@@ -23,7 +23,7 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-sitemap"
    gem "jekyll-seo-tag"
-   gem "jekyll-assets", "2.4.0"
+   gem "jekyll-assets", "3.0.12"
    gem 'bootstrap-sass', '~> 3.4.1'
 end
 
