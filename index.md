@@ -17,8 +17,7 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 <div class="bio">
   <ul class="pic-desc">
   <li class="h4"><em>Roberto Casadei</em>, PhD</li>
-  <li><em>Post-doctoral Researcher</em> in Computer Science and Engineering
-    and <em>Adjunct Professor</em> at Alma Mater Studiorum&#x2013;Università di Bologna</li>
+  <li><em>Assistant Professor</em> at DISI (Department of Computer Science and Engineering),  Alma Mater Studiorum&#x2013;Università di Bologna</li>
   <li><span class="lbl"><i class="fas fa-envelope"></i> E-mail:</span> roby [dot] casadei [at] unibo [dot] it</li>
   <li><span class="lbl"><i class="fas fa-map-marker-alt"></i> Offices:</span> Cesena, Italy</li>
   </ul>
@@ -49,17 +48,20 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 ## Research themes
 
 - _Self-* software systems_: architectures and models for self-adaptation and self-organisation.
-- *Collective Intelligence*: programming models for programming collective adaptive systems; aggregate computing.
+- *Macro-programming*: programming language-based approaches for emergent, collective intelligent, and self-organising systems.
+- *Collective Intelligence*: theories, models, and techniques for understanding and engineering CI in (hybrid) multi-agent systems.
 - *IoT &amp; Edge Computing*: programming models to express computations and coordinate resources across the IoT-edge-fog-cloud continuum.
 
 ## Recent service roles
 
-- [DISCOLI'23 (DIStributed COLlective Intelligence)](https://discoli-workshop.github.io/2022/) Workshop Chair
+- [ASMECC'23 (Autonomic and Self-* Management for the Edge-Cloud Continuum)](https://asmecc-workshop.github.io/2023/) Workshop Chair
+- [DISCOLI'23 (DIStributed COLlective Intelligence)](https://discoli-workshop.github.io/2023/) Workshop Chair
 - [DisCoTec'23 Artifact Evaluation Committee Chair](https://www.discotec.org/2023/)
-- [ACSOS'22 PC Member and Proceedings Chair](https://2022.acsos.org/committee/acsos-2022-organizing-committee)
-
+- [ACSOS'23 PC Member](https://2023.acsos.org/committee/acsos-2023-papers-program-committee)
+- [ICCCI'23 PC Member](https://iccci.pwr.edu.pl/2023/committee-program.php)
 
 <!--
+- [ACSOS'22 PC Member and Proceedings Chair](https://2022.acsos.org/committee/acsos-2022-organizing-committee)
 - [COORDINATION'22 Artifact Evaluation Committee Member](https://www.discotec.org/2022/coordination)
 - [DISCOLI'22 (DIStributed COLlective Intelligence)](https://discoli-workshop.github.io/2022/) Workshop Chair
 - [PLDI'21](https://pldi21.sigplan.org/) Artifact Evaluation Committee Member
@@ -112,4 +114,4 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
     <span extra="note" class="note"></span>
   </div>
 </div>
-<div class="bibtex_display" bibtexkey="casadei2021eaai|audrito2021drv-slcs-fc|pianini2020scr|viroli2019jlamp-si-coord|bucchiarone2020ieeesoc|casadei2020mdpifi-pulverization"></div>
+<div class="bibtex_display" bibtexkey="casadei2023acmsur-macro|casadei2022scafi|taas2022|audrito2022ecoop|casadei2021eaai|audrito2021drv-slcs-fc|pianini2020scr|viroli2019jlamp-si-coord|casadei2020mdpifi-pulverization"></div>

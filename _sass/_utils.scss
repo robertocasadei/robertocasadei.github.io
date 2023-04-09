@@ -223,8 +223,9 @@ nav {
     }
 
     .bio {
-      border: 1px dashed /*$lightTextColor*/;
-      border-radius: 5%;
+      // border: 1px dashed /*$lightTextColor*/;
+      // border-radius: 5%;
+      background-color: #ddd;
       padding: 2%;
     }
 
@@ -269,7 +270,7 @@ footer {
 
 
 .pic {
-  border-radius: 50%;
+  // border-radius: 50%;
   width: 60%;
   margin-left: auto;
   margin-right: auto;
