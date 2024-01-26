@@ -57,7 +57,7 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 - [ASMECC'23 (Autonomic and Self-* Management for the Edge-Cloud Continuum)](https://asmecc-workshop.github.io/2023/) Workshop Chair
 - [DISCOLI'23 (DIStributed COLlective Intelligence)](https://discoli-workshop.github.io/2023/) Workshop Chair
 - [DisCoTec'23 Artifact Evaluation Committee Chair](https://www.discotec.org/2023/)
-- [ACSOS'23 PC Member](https://2023.acsos.org/committee/acsos-2023-papers-program-committee)
+- [ACSOS'23 Senior PC Member](https://2023.acsos.org/committee/acsos-2023-papers-program-committee)
 - [ICCCI'23 PC Member](https://iccci.pwr.edu.pl/2023/committee-program.php)
 
 <!--
