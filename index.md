@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Roberto Casadei's home
 custom_js:
 - /assets/js/jquery.min.js
@@ -14,12 +14,14 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 - PhD Course on <em>Intelligent Collective Systems</em> coming soon!
 -->
 
+## Contact details
+
 <div class="bio">
   <ul class="pic-desc">
   <li class="h4"><em>Roberto Casadei</em>, PhD</li>
   <li><em>Assistant Professor</em> at DISI (Department of Computer Science and Engineering),  Alma Mater Studiorum&#x2013;Università di Bologna</li>
   <li><span class="lbl"><i class="fas fa-envelope"></i> E-mail:</span> roby [dot] casadei [at] unibo [dot] it</li>
-  <li><span class="lbl"><i class="fas fa-map-marker-alt"></i> Offices:</span> Cesena, Italy</li>
+  <li><span class="lbl"><i class="fas fa-map-marker-alt"></i> Offices:</span> Office 4020, Cesena Campus, via dell'Università 50, Cesena, Italy</li>
   </ul>
 
   <div class="mt-3 mb-3 badges"> <!-- text-center -->
@@ -41,9 +43,16 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 ## Currently taught courses
 
+- [11929 - Algorithm and Data Structures - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498823)
+- [15305 - Foundations of Informatics A - 6 cfu](15305 - Foundations of Informatics A - 6 cfu) ([cod. 09730](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/447683))
+- [B3109 - Mobile System Programming Workshop Classes - Imola Branch Campus - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498837)
+- [95648 - Software Design and Development - 9 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498808)
+
+<!--
 - [09730 -  Principles of Informatics - 6 cfu, 15305 - Foundations of Informatics A - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/482466)
 - [95648 - Software Design and Development - 9 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/466792)
 - [70219 - Object-Oriented Programming - Module 3](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/378219)
+-->
 
 ## Research themes
 
@@ -54,13 +63,17 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 ## Recent service roles
 
+- Artefact Evaluation Chair: ACSOS'24, DisCoTec'24, DisCoTec'23
+- Senior PC member: ACSOS'23
+- PC member: AAAI'24, ECAI'24, ICCCI'24, QUATIC'24, SAC'24
+- Guest editor: Science of Computer Programming (Software Track), Frontiers in Robotics and AI
+
+<!--
 - [ASMECC'23 (Autonomic and Self-* Management for the Edge-Cloud Continuum)](https://asmecc-workshop.github.io/2023/) Workshop Chair
 - [DISCOLI'23 (DIStributed COLlective Intelligence)](https://discoli-workshop.github.io/2023/) Workshop Chair
 - [DisCoTec'23 Artifact Evaluation Committee Chair](https://www.discotec.org/2023/)
 - [ACSOS'23 Senior PC Member](https://2023.acsos.org/committee/acsos-2023-papers-program-committee)
 - [ICCCI'23 PC Member](https://iccci.pwr.edu.pl/2023/committee-program.php)
-
-<!--
 - [ACSOS'22 PC Member and Proceedings Chair](https://2022.acsos.org/committee/acsos-2022-organizing-committee)
 - [COORDINATION'22 Artifact Evaluation Committee Member](https://www.discotec.org/2022/coordination)
 - [DISCOLI'22 (DIStributed COLlective Intelligence)](https://discoli-workshop.github.io/2022/) Workshop Chair

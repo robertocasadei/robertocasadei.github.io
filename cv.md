@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Curriculum Vitae
 permalink: /cv/
 description: Roberto Casadei's curriculum vitae and portfolio (including academic activity, professional activity, software artifacts, awards, publications).
