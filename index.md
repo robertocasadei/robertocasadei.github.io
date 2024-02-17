@@ -8,11 +8,11 @@ custom_js:
 description: "Roberto Casadei's Professional Website: it includes his recent academic and professional activity, CV, portfolio, and blog."
 ---
 
-<!--
-## News
 
-- PhD Course on <em>Intelligent Collective Systems</em> coming soon!
--->
+## Latest
+
+- [Corso di alta formazione in Transizione digitale nella logistica portuale - 6036](/course-2023-24-caf-logistica-portuale/)
+
 
 ## Contact details
 
