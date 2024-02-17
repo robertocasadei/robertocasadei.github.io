@@ -9,9 +9,9 @@ permalink: /course-2023-24-caf-logistica-portuale/
 
 ## Slides
 
-- [Complexity and complex systems](https://drive.google.com/file/d/12BQ6kPp-OjfHr1Npl-MMsrzJWAAt_heo/view?usp=drive_link)
-- [Collective intelligence](https://drive.google.com/file/d/1P5QkvXG4eqbUZMe0LwlOg1vzFcf3j6Yj/view?usp=drive_link)
-- [Graphs and complex networks](https://drive.google.com/file/d/1-JE8EPovMl6_n1b4uI9Gyoc0HhmeqP_j/view?usp=drive_link)
+- [Complexity and complex systems](https://drive.google.com/file/d/12BQ6kPp-OjfHr1Npl-MMsrzJWAAt_heo/view?usp=sharing)
+- [Collective intelligence](https://drive.google.com/file/d/1P5QkvXG4eqbUZMe0LwlOg1vzFcf3j6Yj/view?usp=sharing)
+- [Graphs and complex networks](https://drive.google.com/file/d/1-JE8EPovMl6_n1b4uI9Gyoc0HhmeqP_j/view?usp=sharing)
 
 ## Notebooks
 
