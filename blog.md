@@ -26,6 +26,6 @@ SimpleJekyllSearch({
 <ul>
 {% for p in site.posts %}
   <li><a href="{{ p.url }}">{{p.date | date: "%Y-%m-%d"}} - <span class="post-title">{{ p.title }}</span></a>
-  {{p.excerpt}}</li>
+  {{p.excerpt}} [...] </li>
 {% endfor %}
 </ul>
