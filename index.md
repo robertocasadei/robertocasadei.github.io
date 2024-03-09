@@ -9,17 +9,20 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 ---
 
 
+<!--
+
 ## Latest
 
 - [Corso di alta formazione in Transizione digitale nella logistica portuale - 6036](/course-2023-24-caf-logistica-portuale/)
 
+--> 
 
 ## Contact details
 
 <div class="bio">
   <ul class="pic-desc">
   <li class="h4"><em>Roberto Casadei</em>, PhD</li>
-  <li><em>Assistant Professor</em> at DISI (Department of Computer Science and Engineering),  Alma Mater Studiorum&#x2013;Università di Bologna</li>
+  <li><em>Senior Assistant Professor</em> at DISI (Department of Computer Science and Engineering),  Alma Mater Studiorum&#x2013;Università di Bologna</li>
   <li><span class="lbl"><i class="fas fa-envelope"></i> E-mail:</span> roby [dot] casadei [at] unibo [dot] it</li>
   <li><span class="lbl"><i class="fas fa-map-marker-alt"></i> Offices:</span> Office 4020, Cesena Campus, via dell'Università 50, Cesena, Italy</li>
   </ul>
@@ -41,10 +44,11 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 - By appointment to be arranged by e-mail.
 
-## Currently taught courses
+## Currently [taught courses](https://www.unibo.it/sitoweb/roby.casadei/teachings)
 
-- [11929 - Algorithm and Data Structures - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498823)
 - [15305 - Foundations of Informatics A - 6 cfu](15305 - Foundations of Informatics A - 6 cfu) ([cod. 09730](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/447683))
+- [Corso di alta formazione in Transizione digitale nella logistica portuale - 6036](/course-2023-24-caf-logistica-portuale/)
+- [11929 - Algorithm and Data Structures - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498823)
 - [B3109 - Mobile System Programming Workshop Classes - Imola Branch Campus - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498837)
 - [95648 - Software Design and Development - 9 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498808)
 
@@ -63,10 +67,10 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 ## Recent service roles
 
-- Artefact Evaluation Chair: ACSOS'24, DisCoTec'24, DisCoTec'23
-- Senior PC member: ACSOS'23
-- PC member: AAAI'24, ECAI'24, ICCCI'24, QUATIC'24, SAC'24
+- Associate Editor (Editorial Board Member): [Elsevier IoT](https://www.sciencedirect.com/journal/internet-of-things/about/editorial-board), [JAISCR](https://sciendo.com/journal/JAISCR?content-tab=editorial)
 - Guest editor: Science of Computer Programming (Software Track), Frontiers in Robotics and AI
+- Artefact Evaluation Chair: ACSOS'24, DisCoTec'24, DisCoTec'23
+- PC member: ACSOS'24, AAAI'24, ECAI'24, ICCCI'24, QUATIC'24, SAC'24
 
 <!--
 - [ASMECC'23 (Autonomic and Self-* Management for the Edge-Cloud Continuum)](https://asmecc-workshop.github.io/2023/) Workshop Chair
@@ -88,6 +92,14 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 ## Theses
 
 - Look at the [thesis proposals](/thesis-proposals)
+
+## News
+
+- 2024/03: We closed the Frontiers Robotics & AI Special Issue on [Understanding and Engineering Cyber-Physical Collectives
+](https://www.frontiersin.org/research-topics/52323/understanding-and-engineering-cyber-physical-collectives)
+- 2024/02: I entered the [Editorial Board of Elsevier IoT](https://www.sciencedirect.com/journal/internet-of-things/about/editorial-board)
+- 2024/01: We got [our paper on the eXchange Calculus (XC) accepted on JSS](https://doi.org/10.1016/j.jss.2024.111976)
+- 2023/10: I took service as Senior Assistant Professor (RTD-B)
 
 ## Publications highlights
 

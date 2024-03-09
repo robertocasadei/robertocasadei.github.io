@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thesis Proposals
+title: Student Projects & Thesis Proposals
 permalink: /thesis-proposals/
 ---
 
@@ -10,16 +10,35 @@ Take a look at my [research activity](/research) and contact me via e-mail for t
 
 Kinds of thesis:
 
-- *Research-oriented* -- these aim at providing (small) contributions to the state of the art in some target field;
-- *Software engineering projects* -- these are works aimed at developing complex software (cf., distributed systems);
-- *Surveys / Systematic Literature Reviews* -- the works include a comprehensive study of the literature (e.g., on self-* systems, multi-agent systems, collective intelligence) and an original synthesis (e.g., in terms of a taxonomy, learned lessons, challenges and opportunities).
+- **Research-oriented** -- these aim at providing (small) contributions to the state of the art in some target field;
+- **Software engineering projects** -- these are works aimed at developing complex software (cf., distributed systems);
+- **Surveys / Systematic Literature Reviews** -- the works include a comprehensive study of the literature (e.g., on self-* systems, multi-agent systems, collective intelligence) and an original synthesis (e.g., in terms of a taxonomy, learned lessons, challenges and opportunities).
 
 ## Proposals
 
-- *Integration of ScaFi and the ARGoS Robot Simulator*
-- *Graphical application monitoring and debugging* -- with links to Model@Runtime
-- *Investigations on aspects related to "collective intelligence"*
-- *Investigations on non-conventional programming paradigms*
+- *Integration of [ScaFi](https://scafi.github.io/) and the ARGoS Robot Simulator*
+- *Graphical application visualisation, monitoring, and debugging* -- with links to Model@Runtime
+- *Investigations on aspects related to ["collective intelligence"](https://arxiv.org/pdf/2304.05147.pdf)*
+- *Investigations on non-conventional programming paradigms* (cf. [macro-programming](https://dl.acm.org/doi/10.1145/3579353))
+- *Testing solutions for complex adaptive multi-agent systems*
+- *Web platforms for knowledge-intensive workflows*
+- *DSLs for generating universal (web-based, desktop, mobile) knowledge-intensive workflow applications*
+
+Some of these proposals are detailed in the following.
+
+### *Integration of [ScaFi](https://scafi.github.io/) and the ARGoS Robot Simulator*
+
+- *Type of work*: software engineering project
+- *Goal*: allowing the execution of ScaFi programs to control robots in the ARGoS Robot Simulator
+- *Requirements*: knowledge of C/C++ (since ARGoS is implemented in C++) and Java/Scala (since ScaFi runs on the JVM)
+- *Mainly aimed at*: Master Students
+
+### *Web platforms for knowledge-intensive workflows*
+
+- *Type of work*: software engineering project
+- *Goal*: the goal is to support the configurable creation of web-based knowledge-intensive workflow platforms, e.g. according to literature models (cf. SLRs).  For instance, suppose you are carrying out a collaborative research project. You and your groupmates need to select a bunch of papers or references to study. Then you need to analyse them, and take notes about them. This process consists of multiple phases: paper gathering, preliminary analysis, paper filtering, detailed analysis, and production of plots. The goal is to build a configurable platform allowing customisation of similar workflows and the flexible integration of plugins/tools therein for analyses etc.
+- *Requirements*: web-based and database technologies
+- *Mainly aimed at*: Bachelor / Master Students
 
 ## Past co-supervised theses
 
