@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Roberto Casadei's home
+title: Home
 custom_js:
 - /assets/js/jquery.min.js
 - /assets/js/bootstrap.bundle.min.js
