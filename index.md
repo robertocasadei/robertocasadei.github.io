@@ -142,4 +142,4 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
     <span extra="note" class="note"></span>
   </div>
 </div>
-<div class="bibtex_display" bibtexkey="casadei2023acmsur-macro|casadei2022scafi|taas2022|audrito2022ecoop|casadei2021eaai|audrito2021drv-slcs-fc|pianini2020scr|viroli2019jlamp-si-coord|casadei2020mdpifi-pulverization"></div>
+<div class="bibtex_display" bibtexkey="Casadei2025tosem|Casadei2024iot-pattern-processes|casadei2023acmsur-macro|audrito2024jss-xc|casadei2021eaai|audrito2021drv-slcs-fc|pianini2020scr|viroli2019jlamp-si-coord"></div>
