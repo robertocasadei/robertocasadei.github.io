@@ -46,13 +46,13 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 ## Currently [taught courses](https://www.unibo.it/sitoweb/roby.casadei/teachings)
 
-- [15305 - Foundations of Informatics A - 6 cfu](15305 - Foundations of Informatics A - 6 cfu) ([cod. 09730](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/447683))
-- [Corso di alta formazione in Transizione digitale nella logistica portuale - 6036](/course-2023-24-caf-logistica-portuale/)
-- [11929 - Algorithm and Data Structures - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498823)
-- [B3109 - Mobile System Programming Workshop Classes - Imola Branch Campus - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498837)
-- [95648 - Software Design and Development - 9 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498808)
+- [15305 - Foundations of Informatics A - 6 cfu](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/482466)
+- [11929 - Algorithm and Data Structures - 6 cfu](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/498823)
 
 <!--
+- [Corso di alta formazione in Transizione digitale nella logistica portuale - 6036](/course-2023-24-caf-logistica-portuale/)
+- [B3109 - Mobile System Programming Workshop Classes - Imola Branch Campus - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498837)
+- [95648 - Software Design and Development - 9 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498808)
 - [09730 -  Principles of Informatics - 6 cfu, 15305 - Foundations of Informatics A - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/482466)
 - [95648 - Software Design and Development - 9 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/466792)
 - [70219 - Object-Oriented Programming - Module 3](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/378219)
@@ -69,8 +69,8 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 - Associate Editor (Editorial Board Member): [Elsevier IoT](https://www.sciencedirect.com/journal/internet-of-things/about/editorial-board), [JAISCR](https://sciendo.com/journal/JAISCR?content-tab=editorial)
 - Guest editor: Science of Computer Programming (Software Track), Frontiers in Robotics and AI
-- Artefact Evaluation Chair: ACSOS'24, DisCoTec'24, DisCoTec'23
-- PC member: ACSOS'24, AAAI'24, ECAI'24, ICCCI'24, QUATIC'24, SAC'24
+- Artefact Evaluation Chair: DisCoTec'25, ACSOS'24
+- PC member: AAAI'25, ECAI'25, ICCCI'24, QUATIC'24, SAC'24, ACSOS'24
 
 <!--
 - [ASMECC'23 (Autonomic and Self-* Management for the Edge-Cloud Continuum)](https://asmecc-workshop.github.io/2023/) Workshop Chair
@@ -95,6 +95,9 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 ## News
 
+- 2025/01: We published a paper on *software engineering for collective cyber-physical ecosystems* on ACM TOSEM 
+- 2024/12: I published the solo paper *System-wide IoT design and programming: Patterns for decentralised collective processes* on Elsevier IoT
+- 2024/09: We closed the Special Issue on Software Artifacts from DisCoTec'23
 - 2024/03: We closed the Frontiers Robotics & AI Special Issue on [Understanding and Engineering Cyber-Physical Collectives
 ](https://www.frontiersin.org/research-topics/52323/understanding-and-engineering-cyber-physical-collectives)
 - 2024/02: I entered the [Editorial Board of Elsevier IoT](https://www.sciencedirect.com/journal/internet-of-things/about/editorial-board)
