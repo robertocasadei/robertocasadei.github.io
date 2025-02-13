@@ -51,11 +51,12 @@ permalink: /exam-results/
             fetch(url, { redirect: 'follow' })
                 .then(response => response.json())
                 .then(data => {
-                    console.log(data);
+                    // console.log(data);
                     if (data.status == "error") {
                         document.getElementById("output").innerText = "Errore: " + data.data.error;
+                        document.getElementById("resultTable").style.display = "none";
                     } else {
-                        //document.getElementById("output").innerText = "Risultati trovati: " + data.data.risultati.join(", ");
+                        document.getElementById("output").innerText = "Risultati trovati."; // + data.data.risultati.join(", ");
                         visualizzaTabella(data.data.risultati);
                     }
                 })
