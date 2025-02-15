@@ -9,10 +9,16 @@ Looking for a thesis? Take a look at my [thesis proposals](/thesis-proposals) an
 
 # Teaching
 
+
+### a.y. 2024-25
+
+- [15305 - Foundations of Informatics A - 6 cfu](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/482466)
+- [11929 - Algorithm and Data Structures - 6 cfu](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/498823)
+
 ### a.y. 2023-24
 
 - [11929 - Algorithm and Data Structures - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498823)
-- [15305 - Foundations of Informatics A - 6 cfu](15305 - Foundations of Informatics A - 6 cfu) ([cod. 09730](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/447683))
+- [15305 - Foundations of Informatics A - 6 cfu - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/447683)
 - [B3109 - Mobile System Programming Workshop Classes - Imola Branch Campus - 6 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498837)
 - [95648 - Software Design and Development - 9 cfu](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2023/498808)
 
