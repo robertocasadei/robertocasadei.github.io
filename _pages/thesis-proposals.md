@@ -16,19 +16,25 @@ Kinds of thesis:
 
 ## Current Active Proposals
 
-- Scientific and interdisciplinary topics:
-    - *Investigations on aspects related to ["collective intelligence"](https://arxiv.org/pdf/2304.05147.pdf)*
+- Scientific and inter-/multi-/trans-disciplinary topics:
+    - *Investigations on aspects related to **["collective intelligence"](https://arxiv.org/pdf/2304.05147.pdf)***: how to reliably engineer collective behaviour? how to influence collective behaviour? what can we learn from animal behaviour? See Casadei's paper [Artificial Collective Intelligence Engineering: A Survey of Concepts and Perspectives Unavailable](https://doi.org/10.1162/artl_a_00408) for an overview of the topic.
+    - **Ethic-aware** autonomous systems*: autonomous systems should not just focus on functional requirements and user preferences, but also on the broader implications of their actions (cf. social aspects). So: how to model soft/hard ethical requirements? How to deal with conflicting ethics? How to enforce collective ethics in a MAS? How to measure ethical-awareness and -effectiveness?
 - Programming languages and frameworks for specific domains:
-    - *Investigations on non-conventional programming paradigms* (cf. [macro-programming](https://dl.acm.org/doi/10.1145/3579353))
-    - *Integration of [ScaFi](https://scafi.github.io/) and the ARGoS Robot Simulator*
+    - *Investigations on non-conventional / domain-specific programming paradigms* (cf. **[macro-programming](https://dl.acm.org/doi/10.1145/3579353)**)
+    - **Integration of [ScaFi](https://scafi.github.io/) and the ARGoS Robot Simulator**
 - Knowledge-intensive workflows
-    - *Web platforms for knowledge-intensive workflows*
+    - **Web platforms for knowledge-intensive workflows**
     - *DSLs for generating universal (web-based, desktop, mobile) knowledge-intensive workflow applications*
+- **Artificial collective intelligence engineering**
+    - See Casadei's paper [Software Engineering for Collective Cyber-Physical Ecosystems](https://doi.org/10.1145/3712004) for a research agenda on the topic.
 - Software engineering topics: visualisation
-    - *Graphical application visualisation, monitoring, and debugging* -- with links to Model@Runtime
+    - **Software system visualisation, monitoring, and debugging** (with links to *Model@Runtime*)
 - Software engineering topics: testing
-    - *Testing solutions for complex adaptive multi-agent systems* (connected with scientific themes like *emergence*)
-- Swarm robotics
+    - **Testing solutions for complex adaptive multi-agent systems** (connected with scientific themes like *emergence*)
+- Human-machine networks
+    - *Supporting effective collaboration in **human-machine networks**?
+- Innovative applications
+    - **Crowd Digital Twins**: design of digital twin-based solutions for physical situated human crowds. This topic is actually a research agenda, with several directions for investigations: see the papers [Crowd Digital Twins: High-Level Requirements and Architecture](doi.org/10.1109/CCNC54725.2025.10975899) for an overview of the topic.
 
 Some of these proposals are detailed in the following.
 
