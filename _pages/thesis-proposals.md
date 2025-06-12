@@ -14,17 +14,28 @@ Kinds of thesis:
 - **Software engineering projects** -- these are works aimed at developing complex software (cf., distributed systems);
 - **Surveys / Systematic Literature Reviews** -- the works include a comprehensive study of the literature (e.g., on self-* systems, multi-agent systems, collective intelligence) and an original synthesis (e.g., in terms of a taxonomy, learned lessons, challenges and opportunities).
 
-## Proposals
+## Current Active Proposals
 
-- *Integration of [ScaFi](https://scafi.github.io/) and the ARGoS Robot Simulator*
-- *Graphical application visualisation, monitoring, and debugging* -- with links to Model@Runtime
-- *Investigations on aspects related to ["collective intelligence"](https://arxiv.org/pdf/2304.05147.pdf)*
-- *Investigations on non-conventional programming paradigms* (cf. [macro-programming](https://dl.acm.org/doi/10.1145/3579353))
-- *Testing solutions for complex adaptive multi-agent systems*
-- *Web platforms for knowledge-intensive workflows*
-- *DSLs for generating universal (web-based, desktop, mobile) knowledge-intensive workflow applications*
+- Scientific and interdisciplinary topics:
+    - *Investigations on aspects related to ["collective intelligence"](https://arxiv.org/pdf/2304.05147.pdf)*
+- Programming languages and frameworks for specific domains:
+    - *Investigations on non-conventional programming paradigms* (cf. [macro-programming](https://dl.acm.org/doi/10.1145/3579353))
+    - *Integration of [ScaFi](https://scafi.github.io/) and the ARGoS Robot Simulator*
+- Knowledge-intensive workflows
+    - *Web platforms for knowledge-intensive workflows*
+    - *DSLs for generating universal (web-based, desktop, mobile) knowledge-intensive workflow applications*
+- Software engineering topics: visualisation
+    - *Graphical application visualisation, monitoring, and debugging* -- with links to Model@Runtime
+- Software engineering topics: testing
+    - *Testing solutions for complex adaptive multi-agent systems* (connected with scientific themes like *emergence*)
+- Swarm robotics
 
 Some of these proposals are detailed in the following.
+
+###  A Framework for Reusable Logical Visualisations of Software Systems
+
+- *Type of work*: project (+ survey)
+- *Abstract:* Visualising software systems is key for understanding them, enabling debugging, software evolution, and team collaboration. Much of research has focussed on visualising program executions in terms of 'code'. However, sometimes, more flexible and logical forms of visualisations might be generated for purposes like conceptual comprehension, analysis, and education. Moreover, most of the frameworks are constrained in terms of the kinds of visualisations to be generated. Goal of this project/thesis is to investigate ways to design the generation of visualisations in a flexible, decoupled, and reusable manner. Multiple specific directions and applications can also be envisioned, from multi-level visualisations of collective systems (e.g., crowds) to semi-automatic visualisation of algorithms on different data structures.
 
 ### *Integration of [ScaFi](https://scafi.github.io/) and the ARGoS Robot Simulator*
 
