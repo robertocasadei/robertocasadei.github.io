@@ -9,7 +9,7 @@ description: Roberto Casadei's curriculum vitae and portfolio (including academi
 
 # Curriculum Vitae
 
-- [Complete CV]({% link data/cv.pdf %}) (PDF format)
+- [Complete CV]({% link data/cv.pdf %}) (PDF format, updated on October 2025)
 
 <!-- - [One-page CV]({% link data/onepage.pdf %}) (Feb, 2021; PDF format) -->
 
@@ -18,12 +18,13 @@ description: Roberto Casadei's curriculum vitae and portfolio (including academi
 
 ## Software Development
 
-- I lead the development of [ScaFi](https://scafi.github.io), a Scala-based toolkit for aggregate programming (a paradigm for programming collective adaptive behaviour), comprising a domain-specific language (DSL), tests, simulation, and distribution tools.
+- I led the development of [ScaFi](https://scafi.github.io), a Scala-based toolkit for aggregate programming (a paradigm for programming collective adaptive behaviour), comprising a domain-specific language (DSL), tests, simulation, and distribution tools.
 
 ## Publications
 
 Some selected publications follow. For the complete list, refer to the [Research section](/research).
 
+- *Software Engineering for Collective Cyber-Physical Ecosystems*. Roberto Casadei et al. ACM TOSEM. 2025. <https://doi.org/10.1145/3712004>
 - *Macroprogramming: Concepts, State of the Art, and Opportunities of Macroscopic Behaviour Modelling*. Roberto Casadei. ACM Computing Surveys. 2023. <https://dl.acm.org/doi/10.1145/3579353>
 - *Engineering collective intelligence at the edge with aggregate processes*. Roberto Casadei, Mirko Viroli, Giorgio Audrito, Danilo Pianini, and Ferruccio Damiani. Engineering Applications of Artificial Intelligence. 2021. <https://doi.org/10.1016/j.engappai.2020.104081>
 - *From distributed coordination to field calculus and aggregate computing*. Mirko Viroli, Jacob Beal, Ferruccio Damiani, Giorgio Audrito, Roberto Casadei, and Danilo Pianini. Journal of Logical and Algebraic Methods in Programming. 2019.
@@ -33,7 +34,10 @@ Journal of Systems and Software. 2021. <https://doi.org/10.1016/j.jss.2021.11090
 
 ## Awards and Scholarships
 
-- *Research Awards*: IEEE TCSC Outstanding PhD Dissertation Award 2020. ECOOP Distinguished Artifact Award 2022
+- *Research Awards*: 
+  - IEEE TCSC Award for Excellence (Early Career Researcher) 2024
+  - IEEE TCSC Outstanding PhD Dissertation Award 2020
+  - ECOOP Distinguished Artifact Award 2022
 - *Scholarships*: Computer Science and Engineering PhD Scholarship (MIUR, 3 years); Scholarship on "Software Infrastructures for the Management of IoT Systems" (Orizzonti Holding); Scholarship for meritorious UNIBO students
 - *Travel grants*: Travel/Conference Grant (DisCoTec 2019); Mobility Grant (Marco Polo 2016); Travel/Conference Grant (Scala Symposium 2016);
 - *Student Awards*: Best master graduate student (G.Bassi 2017 prize)

@@ -69,6 +69,7 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 - Associate Editor (Editorial Board Member): [Elsevier IoT](https://www.sciencedirect.com/journal/internet-of-things/about/editorial-board), [JAISCR](https://sciendo.com/journal/JAISCR?content-tab=editorial)
 - Guest editor: Science of Computer Programming (Software Track), Frontiers in Robotics and AI
+- **PC co-chair of COORDINATION'26**
 - Artefact Evaluation Chair: DisCoTec'25, ACSOS'24
 - PC member: AAAI'25, ECAI'25, ICCCI'24, QUATIC'24, SAC'24, ACSOS'24
 
@@ -95,6 +96,8 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 ## News
 
+- 2025/10: I was invited to serve as PC co-chair of COORDINATION'26
+- 2025/03: I joined the editorial board of the Wiley journal on *Concurrency and Computation: Practice and Experience* 
 - 2025/01: We published a paper on *software engineering for collective cyber-physical ecosystems* on ACM TOSEM 
 - 2024/12: I published the solo paper *System-wide IoT design and programming: Patterns for decentralised collective processes* on Elsevier IoT
 - 2024/09: We closed the Special Issue on Software Artifacts from DisCoTec'23
@@ -142,4 +145,4 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
     <span extra="note" class="note"></span>
   </div>
 </div>
-<div class="bibtex_display" bibtexkey="Casadei2025tosem|Casadei2024iot-pattern-processes|casadei2023acmsur-macro|audrito2024jss-xc|casadei2021eaai|audrito2021drv-slcs-fc|pianini2020scr|viroli2019jlamp-si-coord"></div>
+<div class="bibtex_display" bibtexkey="Casadei2025tosem|Casadei2025iot-survey-fluidware|Casadei2024iot-pattern-processes|casadei2023acmsur-macro|audrito2024jss-xc|casadei2021eaai|audrito2021drv-slcs-fc|pianini2020scr|viroli2019jlamp-si-coord"></div>
