@@ -11,11 +11,16 @@ description: Roberto Casadei's research themes and peer-reviewed publications.
 
 # Research
 
-## Research Themes
+**Main research theme.** Since my Masters' Degree Thesis in 2016 and through my PhD (2016-2020), post-doc (2020-2022), and assistant professor roles (2022-2026), my research has focussed on the **software engineering of collective systems**, especially by the computational, programming language,  and distributed middleware perspectives. 
 
-- _Self-* software systems_: architectures and models for self-adaptation and self-organisation.
-- *Collective Intelligence*: programming models for programming collective adaptive systems; aggregate computing.
-- *Edge Computing*: programming models to coordinate resources across the edge-fog-cloud continuum.
+**Contributions.** Contributions include developments of the **aggregate computing paradigm** (cf. concrete languages like ScaFi, and middleware models for the edge-cloud continuum like *pulverisation*), conceptualisation of **macro-programming**, investigations about **artificial collective intelligence**, identification and definition of **self-organisation design patterns**, and conceptualisation of application scenarios like **crowd digital twins**. 
+
+## Research Themes at a Glance
+
+- **Self-* software systems**: architectures and models for self-adaptation and self-organisation.
+- **(Unconventional) Programming Languages**: programming language-based approaches for emergent, collective intelligent, and self-organising systems (cf. Macro-programming).
+- **(Artificial|Hybrid) Collective Intelligence**: theories, models, and techniques for understanding and engineering CI in (hybrid) multi-agent systems.
+- **IoT, Smart Cities &amp; Edge Computing**: programming models to express computations and coordinate resources across the IoT-edge-fog-cloud continuum and in large-scale scenarios (e.g., smart cities).
 
 <bibtex src="{{ '/assets/biblio.bib' | relative_url }}"></bibtex>
 

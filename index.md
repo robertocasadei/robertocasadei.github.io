@@ -25,6 +25,7 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
   <li><em>Senior Assistant Professor</em> at DISI (Department of Computer Science and Engineering),  Alma Mater Studiorum&#x2013;Università di Bologna</li>
   <li><span class="lbl"><i class="fas fa-envelope"></i> E-mail:</span> roby [dot] casadei [at] unibo [dot] it</li>
   <li><span class="lbl"><i class="fas fa-map-marker-alt"></i> Offices:</span> Office 4020, Cesena Campus, via dell'Università 50, Cesena, Italy</li>
+  <li>Office hours: by appointment; to be arranged by e-mail</li>
   </ul>
 
   <div class="mt-3 mb-3 badges"> <!-- text-center -->
@@ -40,9 +41,6 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 </div>
 
 
-## Office hours
-
-- By appointment to be arranged by e-mail.
 
 ## Currently [taught courses](https://www.unibo.it/sitoweb/roby.casadei/teachings)
 
@@ -58,16 +56,37 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 - [70219 - Object-Oriented Programming - Module 3](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/378219)
 -->
 
+
+## Theses
+
+- Look at the [thesis proposals](/thesis-proposals)
+
+## News
+
+- 2025/10: I was invited to serve as PC co-chair of COORDINATION'26
+- 2025/03: I joined the editorial board of the Wiley journal on [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/page/journal/15320634/homepage/editorialboard.html)
+- 2024/02: I entered the [Editorial Board of Elsevier IoT](https://www.sciencedirect.com/journal/internet-of-things/about/editorial-board)
+- 2023/10: I took service as Senior Assistant Professor (RTD-B)
+
+<!--
+- 2025/01: We published a paper on *software engineering for collective cyber-physical ecosystems* on ACM TOSEM 
+- 2024/12: I published the solo paper *System-wide IoT design and programming: Patterns for decentralised collective processes* on Elsevier IoT
+- 2024/09: We closed the Special Issue on Software Artifacts from DisCoTec'23
+- 2024/03: We closed the Frontiers Robotics & AI Special Issue on [Understanding and Engineering Cyber-Physical Collectives
+](https://www.frontiersin.org/research-topics/52323/understanding-and-engineering-cyber-physical-collectives)
+- 2024/01: We got [our paper on the eXchange Calculus (XC) accepted on JSS](https://doi.org/10.1016/j.jss.2024.111976)
+-->
+
 ## Research themes
 
-- _Self-* software systems_: architectures and models for self-adaptation and self-organisation.
-- *Macro-programming*: programming language-based approaches for emergent, collective intelligent, and self-organising systems.
-- *Collective Intelligence*: theories, models, and techniques for understanding and engineering CI in (hybrid) multi-agent systems.
-- *IoT &amp; Edge Computing*: programming models to express computations and coordinate resources across the IoT-edge-fog-cloud continuum.
+- **Self-* software systems**: architectures and models for self-adaptation and self-organisation.
+- **(Unconventional) Programming Languages**: programming language-based approaches for emergent, collective intelligent, and self-organising systems (cf. Macro-programming).
+- **(Artificial|Hybrid) Collective Intelligence**: theories, models, and techniques for understanding and engineering CI in (hybrid) multi-agent systems.
+- **IoT, Smart Cities &amp; Edge Computing**: programming models to express computations and coordinate resources across the IoT-edge-fog-cloud continuum and in large-scale scenarios (e.g., smart cities).
 
-## Recent service roles
+## Main community service roles
 
-- Associate Editor (Editorial Board Member): [Elsevier IoT](https://www.sciencedirect.com/journal/internet-of-things/about/editorial-board), [JAISCR](https://sciendo.com/journal/JAISCR?content-tab=editorial)
+- Associate Editor (Editorial Board Member): [Elsevier IoT](https://www.sciencedirect.com/journal/internet-of-things/about/editorial-board), [JAISCR](https://sciendo.com/journal/JAISCR?content-tab=editorial), [Wiley CCPE](https://onlinelibrary.wiley.com/page/journal/15320634/homepage/editorialboard.html)
 - Guest editor: Science of Computer Programming (Software Track), Frontiers in Robotics and AI
 - **PC co-chair of COORDINATION'26**
 - Artefact Evaluation Chair: DisCoTec'25, ACSOS'24
@@ -90,22 +109,18 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 - [CLOUD COMPUTING'21](https://www.iaria.org/conferences2021/CLOUDCOMPUTING21.html) PC Member
 -->
 
-## Theses
+## Research projects
 
-- Look at the [thesis proposals](/thesis-proposals)
+Especially:
 
-## News
+- [COMMON-WEARS: COMMunity-OrieNted WEARrable Computing Systems](https://common-wears.github.io/2022/consortium/) (2022-2025): PRIN Italian Project; I participated as scientific collaborator and task leader
+- [Fluidware](https://fluidware-project.github.io/consortium/) (2019-2023): PRIN Italian Project; I participated as scientific collaborator
 
-- 2025/10: I was invited to serve as PC co-chair of COORDINATION'26
-- 2025/03: I joined the editorial board of the Wiley journal on *Concurrency and Computation: Practice and Experience* 
-- 2025/01: We published a paper on *software engineering for collective cyber-physical ecosystems* on ACM TOSEM 
-- 2024/12: I published the solo paper *System-wide IoT design and programming: Patterns for decentralised collective processes* on Elsevier IoT
-- 2024/09: We closed the Special Issue on Software Artifacts from DisCoTec'23
-- 2024/03: We closed the Frontiers Robotics & AI Special Issue on [Understanding and Engineering Cyber-Physical Collectives
-](https://www.frontiersin.org/research-topics/52323/understanding-and-engineering-cyber-physical-collectives)
-- 2024/02: I entered the [Editorial Board of Elsevier IoT](https://www.sciencedirect.com/journal/internet-of-things/about/editorial-board)
-- 2024/01: We got [our paper on the eXchange Calculus (XC) accepted on JSS](https://doi.org/10.1016/j.jss.2024.111976)
-- 2023/10: I took service as Senior Assistant Professor (RTD-B)
+But also:
+
+- [DISCOV.ER](https://www.discover-project.it/): I participated as scientific collaborator
+- [DistriMuSe – Distributed Multi-sensor Systems for Human Health and Safety](distrimuse.eu): EU-funded project; I participated as scientific collaborator
+
 
 ## Publications highlights
 
