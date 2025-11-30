@@ -17,11 +17,10 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 --> 
 
-## Contact details
+## *Roberto Casadei, PhD* - Contact details
 
 <div class="bio">
   <ul class="pic-desc">
-  <li class="h4"><em>Roberto Casadei</em>, PhD</li>
   <li><em>Senior Assistant Professor</em> at DISI (Department of Computer Science and Engineering),  Alma Mater Studiorum&#x2013;Università di Bologna</li>
   <li><span class="lbl"><i class="fas fa-envelope"></i> E-mail:</span> roby [dot] casadei [at] unibo [dot] it</li>
   <li><span class="lbl"><i class="fas fa-map-marker-alt"></i> Offices:</span> Office 4020, Cesena Campus, via dell'Università 50, Cesena, Italy</li>
@@ -46,6 +45,7 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 - [15305 - Foundations of Informatics A - 6 cfu](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/482466)
 - [11929 - Algorithm and Data Structures - 6 cfu](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2024/498823)
+- **Looking for theses?** Check out the [thesis proposals](/thesis-proposals)!
 
 <!--
 - [Corso di alta formazione in Transizione digitale nella logistica portuale - 6036](/course-2023-24-caf-logistica-portuale/)
@@ -57,16 +57,12 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 -->
 
 
-## Theses
-
-- Look at the [thesis proposals](/thesis-proposals)
-
 ## News
 
-- 2025/10: I was invited to serve as PC co-chair of COORDINATION'26
+- 2025/10: I was invited to serve as **PC co-chair** of COORDINATION'26
 - 2025/03: I joined the editorial board of the Wiley journal on [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/page/journal/15320634/homepage/editorialboard.html)
 - 2024/02: I entered the [Editorial Board of Elsevier IoT](https://www.sciencedirect.com/journal/internet-of-things/about/editorial-board)
-- 2023/10: I took service as Senior Assistant Professor (RTD-B)
+- 2023/10: I took service as **Senior Assistant Professor (RTD-B)**
 
 <!--
 - 2025/01: We published a paper on *software engineering for collective cyber-physical ecosystems* on ACM TOSEM 
@@ -81,7 +77,7 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 - **Self-* software systems**: architectures and models for self-adaptation and self-organisation.
 - **(Unconventional) Programming Languages**: programming language-based approaches for emergent, collective intelligent, and self-organising systems (cf. Macro-programming).
-- **(Artificial|Hybrid) Collective Intelligence**: theories, models, and techniques for understanding and engineering CI in (hybrid) multi-agent systems.
+- **(Artificial &amp; Hybrid) Collective Intelligence**: theories, models, and techniques for understanding and engineering CI in (hybrid) multi-agent systems.
 - **IoT, Smart Cities &amp; Edge Computing**: programming models to express computations and coordinate resources across the IoT-edge-fog-cloud continuum and in large-scale scenarios (e.g., smart cities).
 
 ## Main community service roles

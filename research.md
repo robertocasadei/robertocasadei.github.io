@@ -19,7 +19,7 @@ description: Roberto Casadei's research themes and peer-reviewed publications.
 
 - **Self-* software systems**: architectures and models for self-adaptation and self-organisation.
 - **(Unconventional) Programming Languages**: programming language-based approaches for emergent, collective intelligent, and self-organising systems (cf. Macro-programming).
-- **(Artificial|Hybrid) Collective Intelligence**: theories, models, and techniques for understanding and engineering CI in (hybrid) multi-agent systems.
+- **(Artificial &amp; Hybrid) Collective Intelligence**: theories, models, and techniques for understanding and engineering CI in (hybrid) multi-agent systems.
 - **IoT, Smart Cities &amp; Edge Computing**: programming models to express computations and coordinate resources across the IoT-edge-fog-cloud continuum and in large-scale scenarios (e.g., smart cities).
 
 <bibtex src="{{ '/assets/biblio.bib' | relative_url }}"></bibtex>
