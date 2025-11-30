@@ -21,7 +21,7 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 <div class="bio">
   <ul class="pic-desc">
-  <li><em>Senior Assistant Professor</em> at DISI (Department of Computer Science and Engineering),  Alma Mater Studiorum&#x2013;Università di Bologna</li>
+  <li> <a href="https://www.unibo.it/sitoweb/roby.casadei/en">Senior Assistant Professor</a> at DISI (Department of Computer Science and Engineering),  Alma Mater Studiorum&#x2013;Università di Bologna</li>
   <li><span class="lbl"><i class="fas fa-envelope"></i> E-mail:</span> roby [dot] casadei [at] unibo [dot] it</li>
   <li><span class="lbl"><i class="fas fa-map-marker-alt"></i> Offices:</span> Office 4020, Cesena Campus, via dell'Università 50, Cesena, Italy</li>
   <li>Office hours: by appointment; to be arranged by e-mail</li>
@@ -139,7 +139,7 @@ But also:
   <span class="year"></span>.
   <span class="if note">
     <!--<button class="bibtexVar" type="button" data-toggle="collapse" data-target="#notes_+BIBTEXKEY+" extra="BIBTEXKEY" role="button" aria-expanded="false" aria-controls="notes_+BIBTEXKEY+"><i class="fas fa-envelope"></i></button>-->
-    <a class="bibtexVar" type="button" data-toggle="collapse" href="#notes_+BIBTEXKEY+" extra="BIBTEXKEY" role="button" aria-expanded="false" aria-controls="notes_+BIBTEXKEY+"><i class="fas fa-info-circle"></i></a>
+    <a class="bibtexVar" type="button" data-bs-toggle="collapse" href="#notes_+BIBTEXKEY+" extra="BIBTEXKEY" role="button" aria-expanded="false" aria-controls="notes_+BIBTEXKEY+"><i class="fas fa-info-circle"></i></a>
   </span>
   </span>
   <div class="if url">
