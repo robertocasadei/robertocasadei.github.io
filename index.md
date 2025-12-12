@@ -59,6 +59,7 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 ## News
 
+- 2025/12: I've been awarded the Italian **FIS3 Starting Grant (~€1.1M)** for [my project FoMaSE](/fis3-fomase)
 - 2025/10: I was invited to serve as **PC co-chair** of COORDINATION'26
 - 2025/03: I joined the editorial board of the Wiley journal on [Concurrency and Computation: Practice and Experience](https://onlinelibrary.wiley.com/page/journal/15320634/homepage/editorialboard.html)
 - 2024/02: I entered the [Editorial Board of Elsevier IoT](https://www.sciencedirect.com/journal/internet-of-things/about/editorial-board)
@@ -109,6 +110,7 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 Especially:
 
+- [FIS3 Project FoMaSE (Foundations for Macroprogramming-based Sofrware Engineering)](/fis3-fomase)
 - [COMMON-WEARS: COMMunity-OrieNted WEARrable Computing Systems](https://common-wears.github.io/2022/consortium/) (2022-2025): PRIN Italian Project; I participated as scientific collaborator and task leader
 - [Fluidware](https://fluidware-project.github.io/consortium/) (2019-2023): PRIN Italian Project; I participated as scientific collaborator
 
