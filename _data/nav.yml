@@ -6,9 +6,13 @@
   link: /research
 - name: Teaching
   link: /teaching
+- name: Student projects/theses
+  link: /thesis-proposals
 - name: CV/Portfolio
   link: /cv
-- name: Blog
-  link: /blog
+- name: FIS3-FoMaSE Project
+  link: /fis3-fomase
+#- name: Blog
+#  link: /blog
 #- name: Contacts
 #  link: /references

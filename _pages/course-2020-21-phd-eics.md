@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Engineering Intelligent Collective Systems (A.Y. 2020-21)
 permalink: /course-2020-21-phd-eics/
 ---

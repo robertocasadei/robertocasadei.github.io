@@ -22,9 +22,8 @@ $leftMenuBlogLinkBorder: 1px solid $leftMenuBgColorOdd;
 
 $footerLblColor: $lighterTextColor;
 
-/*******************/
-/*** RESET START ***/
-/*******************/
+/*
+//  RESET START
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -45,7 +44,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
+// HTML5 display-role reset for older browsers
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -69,9 +68,7 @@ table {
 	border-spacing: 0;
 }
 a:hover { text-decoration: none; }
-/*****************/
-/*** RESET END ***/
-/*****************/
+// RESET END
 
 @font-face {
 font-family: "fontawesome";
@@ -219,11 +216,11 @@ nav {
       font-family: $fontFamily; // 'PT Sans Narrow', sans-serif;
       ul { margin: 0px; }
       li { list-style: none; margin: 5px; }
-      em { font-weight: bold; /*color: $lighterTextColor;*/ }
+      em { font-weight: bold; } // color: $lighterTextColor;
     }
 
     .bio {
-      // border: 1px dashed /*$lightTextColor*/;
+      // border: 1px dashed ; // $lightTextColor
       // border-radius: 5%;
       background-color: #ddd;
       padding: 2%;
@@ -294,7 +291,7 @@ footer {
     background-color: $leftMenuBgColorEven;
   }
   li.even {
-    //border-left: 8px solid /*#ababab*/#076196;
+    //border-left: 8px solid #076196; // #ababab
     background-color: $leftMenuBgColorEven;
   }
   li.curr {
@@ -318,6 +315,8 @@ footer {
 pre {
   font-family: 'Courier New', sans-serif;
 }
+
+*/
 
 div.bibtexentry {
   #border-left:10px solid #ababab;
