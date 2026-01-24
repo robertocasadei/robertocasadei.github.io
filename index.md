@@ -139,8 +139,7 @@ But also:
   <span class="if year">
   <span class="year"></span>.
   <span class="if note">
-    <!--<button class="bibtexVar" type="button" data-toggle="collapse" data-target="#notes_+BIBTEXKEY+" extra="BIBTEXKEY" role="button" aria-expanded="false" aria-controls="notes_+BIBTEXKEY+"><i class="fas fa-envelope"></i></button>-->
-    <a class="bibtexVar" type="button" data-bs-toggle="collapse" href="#notes_+BIBTEXKEY+" extra="BIBTEXKEY" role="button" aria-expanded="false" aria-controls="notes_+BIBTEXKEY+"><i class="fas fa-info-circle"></i></a>
+    <button class="bibtexVar" type="button" data-toggle="collapse" data-target="#notes_+BIBTEXKEY+" extra="BIBTEXKEY" role="button" aria-expanded="false" aria-controls="notes_+BIBTEXKEY+"><i class="fas fa-envelope"></i></button>
   </span>
   </span>
   <div class="if url">
