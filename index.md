@@ -121,6 +121,7 @@ But also:
 
 ## Publications highlights
 
+
 <bibtex src="{{ '/assets/biblio.bib' | relative_url }}"></bibtex>
 <div class="bibtex_structure">
   <div class="sort year" extra="DESC number">
@@ -139,7 +140,8 @@ But also:
   <span class="if year">
   <span class="year"></span>.
   <span class="if note">
-    <button class="bibtexVar" type="button" data-toggle="collapse" data-target="#notes_+BIBTEXKEY+" extra="BIBTEXKEY" role="button" aria-expanded="false" aria-controls="notes_+BIBTEXKEY+"><i class="fas fa-envelope"></i></button>
+    <!--<button class="bibtexVar" type="button" data-toggle="collapse" data-target="#notes_+BIBTEXKEY+" extra="BIBTEXKEY" role="button" aria-expanded="false" aria-controls="notes_+BIBTEXKEY+"><i class="fas fa-envelope"></i></button>-->
+    <a class="bibtexVar" type="button" data-toggle="collapse" href="#notes_+BIBTEXKEY+" extra="BIBTEXKEY" role="button" aria-expanded="false" aria-controls="notes_+BIBTEXKEY+"><i class="fas fa-info-circle"></i></a>
   </span>
   </span>
   <div class="if url">
