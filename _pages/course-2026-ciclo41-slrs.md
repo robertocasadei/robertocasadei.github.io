@@ -6,7 +6,7 @@ permalink: /course-phd-2026-41st-cycle-slrs
 
 # Literature reviews: methods and tools
 
-Course offered in the context of the [Phd Program on Computer Science and Engineering @ UNIBO](https://phd.unibo.it/cse/en/research-and-training/programme-content-41st-cycle).
+Course offered in the context of the [Phd Program on Computer Science and Engineering @ UNIBO, 41st Cycle](https://phd.unibo.it/cse/en/research-and-training/programme-content-41st-cycle).
 
 ## Syllabus
 
