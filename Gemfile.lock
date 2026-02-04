@@ -12,6 +12,8 @@ GEM
       timers (~> 4.1)
     autoprefixer-rails (10.4.13.0)
       execjs (~> 2)
+    base64 (0.3.0)
+    bigdecimal (4.0.1)
     bootstrap-sass (3.4.1)
       autoprefixer-rails (>= 5.2.1)
       sassc (>= 2.0.0)
@@ -20,6 +22,7 @@ GEM
     console (1.23.3)
       fiber-annotation
       fiber-local
+    csv (3.3.5)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -33,7 +36,7 @@ GEM
     fiber-annotation (0.2.0)
     fiber-local (1.0.0)
     forwardable-extended (2.6.0)
-    google-protobuf (3.25.2-x86_64-linux)
+    google-protobuf (3.25.8)
     hashery (2.1.2)
     hike (1.2.3)
     html-proofer (5.0.8)
@@ -94,10 +97,11 @@ GEM
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.7.0)
     mercenary (0.4.0)
     mini_magick (4.12.0)
     multi_json (1.15.0)
-    nokogiri (1.16.0-x86_64-linux)
+    nokogiri (1.19.0-x86_64-linux-gnu)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -153,6 +157,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  base64
+  bigdecimal
+  csv
   html-proofer (>= 3.10.0)
   jekyll (= 4.3.3)
   jekyll-assets
@@ -160,6 +167,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
   jekyll-sitemap
+  logger
   sprockets
   tzinfo-data
   webrick

@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  Literature reviews: methods and tools (41st Cycle, CSE PhD Program)
-permalink: /course-phd-2026-41st-cycle-slrs/
+title: "Literature reviews: methods and tools (41st Cycle, CSE PhD Program)"
+permalink: /course-phd-2026-41st-cycle-slrs
 ---
 
 # Literature reviews: methods and tools
@@ -31,9 +31,12 @@ This PhD course introduces methods and tools for the planning and execution of (
 
 *Slides and papers* -- to be provided.
 
+<!--
 ## Registration
 
 Please use [this registration form](https://forms.gle/meVxFJGevogDxqBp9).
+
+-->
 
 ## Schedule
 

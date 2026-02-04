@@ -12,7 +12,10 @@ gem "jekyll", "4.3.3"
 gem "html-proofer", ">= 3.10.0"
 gem "webrick" # to fix 'cannot load rexml/parsers/baseparser'
 gem "sprockets" #, "~> 3.7" # to fix rb_delegate wrong num of args
-
+gem "csv"
+gem "logger"
+gem "base64"
+gem "bigdecimal"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "jekyll-swiss"

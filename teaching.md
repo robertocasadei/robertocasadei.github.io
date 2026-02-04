@@ -11,7 +11,9 @@ Looking for a thesis? Take a look at my [thesis proposals](/thesis-proposals) an
 
 ### a.y. 2025-26
 
+- [PhD Course on Literature Reviews: Methods and Tools](/course-phd-2026-41st-cycle-slrs)
 - [11929 - Algorithm and Data Structures - 6 cfu](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2025/498823)
+- [15305 - Foundations of Informatics A](https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2025/518106)
 
 
 ### a.y. 2024-25
