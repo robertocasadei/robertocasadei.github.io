@@ -40,8 +40,6 @@ Please use [this registration form](https://forms.gle/meVxFJGevogDxqBp9).
 
 ## Schedule
 
-The course will be delivered in **November 2021 / January 2022** in 3 slots, to be agreed with PhD students.
-
 1. April 20th, 2026, 9am-13pm, Room 2.6 (Cesena Campus)
 2. May 4th, 2026, 9am-13pm, Room 2.6 (Cesena Campus)
 3. May 18th, 2026, 9am-13pm, Room 2.6 (Cesena Campus)
