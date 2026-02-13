@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "4.3.3"
+gem "jekyll", "4.4.1"
 gem "html-proofer", ">= 3.10.0"
 gem "webrick" # to fix 'cannot load rexml/parsers/baseparser'
 gem "sprockets" #, "~> 3.7" # to fix rb_delegate wrong num of args
