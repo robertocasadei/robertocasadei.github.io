@@ -8,14 +8,19 @@ permalink: /thesis-proposals/
 
 Take a look at my [research activity](/research) and contact me via e-mail for thesis proposals.
 
+General information about theses can be found here: [LaTeX thesis template](https://github.com/unibo-disi-cesena/thesis-template).
+
 Kinds of thesis:
 
 - **Research-oriented** -- these aim at providing (small) contributions to the state of the art in some target field;
 - **Software engineering projects** -- these are works aimed at developing complex software (cf., distributed systems);
 - **Surveys / Systematic Literature Reviews** -- the works include a comprehensive study of the literature (e.g., on self-* systems, multi-agent systems, collective intelligence) and an original synthesis (e.g., in terms of a taxonomy, learned lessons, challenges and opportunities).
 
+
 ## Current Active Proposals
 
+- Any topic relevant to the [Foundations of Macro-programming-based Software Engineering project](https://fis3-fomase.github.io/)
+    - any investigation addressing the question: how to effectively engineer the micro-macro link in collective and multi-party systems?
 - Scientific and inter-/multi-/trans-disciplinary topics:
     - *Investigations on aspects related to **["collective intelligence"](https://arxiv.org/pdf/2304.05147.pdf)***: how to reliably engineer collective behaviour? how to influence collective behaviour? what can we learn from animal behaviour? See Casadei's paper [Artificial Collective Intelligence Engineering: A Survey of Concepts and Perspectives Unavailable](https://doi.org/10.1162/artl_a_00408) for an overview of the topic.
     - **Ethic-aware** autonomous systems*: autonomous systems should not just focus on functional requirements and user preferences, but also on the broader implications of their actions (cf. social aspects). So: how to model soft/hard ethical requirements? How to deal with conflicting ethics? How to enforce collective ethics in a MAS? How to measure ethical-awareness and -effectiveness?
@@ -38,7 +43,7 @@ Kinds of thesis:
 
 Some of these proposals are detailed in the following.
 
-###  A Framework for Reusable Logical Visualisations of Software Systems
+### A Framework for Reusable Logical Visualisations of Software Systems
 
 - *Type of work*: project (+ survey)
 - *Abstract:* Visualising software systems is key for understanding them, enabling debugging, software evolution, and team collaboration. Much of research has focussed on visualising program executions in terms of 'code'. However, sometimes, more flexible and logical forms of visualisations might be generated for purposes like conceptual comprehension, analysis, and education. Moreover, most of the frameworks are constrained in terms of the kinds of visualisations to be generated. Goal of this project/thesis is to investigate ways to design the generation of visualisations in a flexible, decoupled, and reusable manner. Multiple specific directions and applications can also be envisioned, from multi-level visualisations of collective systems (e.g., crowds) to semi-automatic visualisation of algorithms on different data structures.
@@ -56,6 +61,14 @@ Some of these proposals are detailed in the following.
 - *Goal*: the goal is to support the configurable creation of web-based knowledge-intensive workflow platforms, e.g. according to literature models (cf. SLRs).  For instance, suppose you are carrying out a collaborative research project. You and your groupmates need to select a bunch of papers or references to study. Then you need to analyse them, and take notes about them. This process consists of multiple phases: paper gathering, preliminary analysis, paper filtering, detailed analysis, and production of plots. The goal is to build a configurable platform allowing customisation of similar workflows and the flexible integration of plugins/tools therein for analyses etc.
 - *Requirements*: web-based and database technologies
 - *Mainly aimed at*: Bachelor / Master Students
+
+## Need inspiration?
+
+Lectures and scientific articles are great sources for inspiration
+
+- [Software Engineering Methods for Artificial Collective Intelligence (R. Casadei, Invited Talk at GSSI, 2025)](https://www.slideshare.net/slideshow/software-engineering-methods-for-artificial-collective-intelligence/277619307)
+- Casadei, Roberto, et al. "Software engineering for collective cyber-physical ecosystems." ACM Transactions on Software Engineering and Methodology 34.5 (2025): 1-40. <https://doi.org/10.1145/3712004>
+-  * Casadei, Roberto. "Artificial collective intelligence engineering: a survey of concepts and perspectives." Artificial Life 29.4 (2023): 433-467. <https://arxiv.org/abs/2304.05147>
 
 ## Past co-supervised theses
 
