@@ -37,11 +37,25 @@ Kinds of thesis:
 - Software engineering topics: testing
     - **Testing solutions for complex adaptive multi-agent systems** (connected with scientific themes like *emergence*)
 - Human-machine networks
-    - *Supporting effective collaboration in **human-machine networks**?
+    - Supporting effective collaboration in **human-machine networks**?
 - Innovative applications
-    - **Crowd Digital Twins**: design of digital twin-based solutions for physical situated human crowds. This topic is actually a research agenda, with several directions for investigations: see the papers [Crowd Digital Twins: High-Level Requirements and Architecture](doi.org/10.1109/CCNC54725.2025.10975899) for an overview of the topic.
+    - **Crowd Digital Twins**: design of digital twin-based solutions for physical situated human crowds. This topic is actually a research agenda, with several directions for investigations: see the papers [Crowd Digital Twins: Motivation, Architecture, and Roadmap](https://doi.org/10.1016/j.future.2026.108475) for an overview of the topic.
 
 Some of these proposals are detailed in the following.
+
+### Case studies using research-level programming languages
+
+- *Type of work*: research/project
+- *Goal*: explore the practical expressiveness of research-level programming languages and/or make experiments/extensions for addressing limitations or specific functional/non-functional properties (e.g., adaptivity, reactiveness)
+    - e.g., multi-agent oriented programming languages (e.g., JaCaMo, SARL, Kiko)
+    - e.g., context-oriented programming, context-role oriented programming
+
+
+### Information-theoretical methods for analysis of collective computations
+
+- *Type of work*: research/project
+- *Goal*: consider collective computation models (e.g., cellular automata, aggregate computing) and apply information theoretic measures to analyse the dynamics on examples
+- *Mainly aimed at*: Master Students
 
 ### A Framework for Reusable Logical Visualisations of Software Systems
 
@@ -76,6 +90,8 @@ Take a look [here for theses (co-)supervised by me in the past](https://amslaure
 
 Some highlights (Master's Degree):
 
+- ["Event-driven simulation and verification of FRASP systems against spatio-temporal properties", Cesario, 2024](https://amslaurea.unibo.it/id/eprint/31094)
+- ["A functional-reactive perspective on the Aggregate Computing paradigm", Dente, 2023](https://amslaurea.unibo.it/id/eprint/28147/)
 - ["A platform for aggregate computing over LoRaWAN network", Placuzzi, 2020](https://amslaurea.unibo.it/20484/)
 - ["A Reinforcement Learning approach to discriminate unsafe devices in aggregate computing systems", Volonnino, 2020](https://amslaurea.unibo.it/20488/)
 - ["Towards Aggregate Processes in a Field Calculus-Based Platform", Foschi, 2018](https://amslaurea.unibo.it/15725/)
@@ -85,6 +101,7 @@ Some highlights (Master's Degree):
 
 Some highlights (Bachelor's Degree):
 
+- ["Progettazione di un ambiente di programmazione visuale block-based per ScaFi", Cerioni, 2022](https://amslaurea.unibo.it/id/eprint/25878/)
 - ["Progettazione di un sistema di categorizzazione delle regressioni per il compilatore Rust", Pasini, 2020](https://amslaurea.unibo.it/20886/)
 - ["Sviluppo di un front-end di simulazione per applicazioni aggregate nel framework Scafi", Aguzzi, 2018](https://amslaurea.unibo.it/16824/)
 - ["Sviluppo di applicazioni distribuite con lo stack SMACK", Ciavatta, 2018](https://amslaurea.unibo.it/16836/)
