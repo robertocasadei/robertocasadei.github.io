@@ -44,7 +44,8 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 ## Currently [taught courses](https://www.unibo.it/sitoweb/roby.casadei/teachings)
 
 - [Literature Reviews: Methods and Tools (PhD Course)](/course-phd-2026-41st-cycle-slrs)
-- [11929 - Algorithm and Data Structures - 6 cfu](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2025/498823) - [15305 - Foundations of Informatics A](https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2025/518106)
+- [11929 - Algorithm and Data Structures - 6 cfu](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2025/498823) 
+  [15305 - Foundations of Informatics A](https://www.unibo.it/en/study/course-units-transferable-skills-moocs/course-unit-catalogue/course-unit/2025/518106)
 - **Looking for theses?** Check out the [thesis proposals](/thesis-proposals)!
 
 <!--
@@ -114,11 +115,12 @@ Especially:
 - [COMMON-WEARS: COMMunity-OrieNted WEARrable Computing Systems](https://common-wears.github.io/2022/consortium/) (2022-2025): PRIN Italian Project; I participated as scientific collaborator and task leader
 - [Fluidware](https://fluidware-project.github.io/consortium/) (2019-2023): PRIN Italian Project; I participated as scientific collaborator
 
+<!--
 But also:
 
 - [DISCOV.ER](https://www.discover-project.it/): I participated as scientific collaborator
 - [DistriMuSe – Distributed Multi-sensor Systems for Human Health and Safety](distrimuse.eu): EU-funded project; I participated as scientific collaborator
-
+-->
 
 ## Publications highlights
 

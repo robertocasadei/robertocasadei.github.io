@@ -38,7 +38,7 @@ General principles about theses:
 * **How to write.** The general principle is to *assume the reader has very limited background on the topic*. Each and every technical term should be introduced on first use, and paragraph should provide a clear logical flow (narrative).
 
 ## Current Active Proposals and Thematic Areas
-<a name="proposals></a>
+<a name="proposals"></a>
 
 - Any topic relevant to the [Foundations of Macro-programming-based Software Engineering project](https://fis3-fomase.github.io/)
     - any investigation addressing the question: how to effectively engineer the micro-macro link in collective and multi-party systems?
