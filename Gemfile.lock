@@ -13,7 +13,7 @@ GEM
     autoprefixer-rails (10.4.13.0)
       execjs (~> 2)
     base64 (0.3.0)
-    bigdecimal (4.0.1)
+    bigdecimal (4.1.2)
     bootstrap-sass (3.4.1)
       autoprefixer-rails (>= 5.2.1)
       sassc (>= 2.0.0)
