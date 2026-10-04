@@ -4,6 +4,7 @@ title: Home
 custom_js:
 - /assets/js/jquery.min.js
 - /assets/js/bootstrap.bundle.min.js
+- /assets/js/moment.min.js
 - /assets/js/bibtex_js.js
 description: "Roberto Casadei's Professional Website: it includes his recent academic and professional activity, CV, portfolio, and blog."
 ---
@@ -21,7 +22,7 @@ description: "Roberto Casadei's Professional Website: it includes his recent aca
 
 <div class="bio">
   <ul class="pic-desc">
-  <li> <a href="https://www.unibo.it/sitoweb/roby.casadei/en">Senior Assistant Professor</a> at DISI (Department of Computer Science and Engineering),  Alma Mater Studiorum&#x2013;Università di Bologna</li>
+  <li> <a href="https://www.unibo.it/sitoweb/roby.casadei/en">Associate Professor</a> at DISI (Department of Computer Science and Engineering),  Alma Mater Studiorum&#x2013;Università di Bologna</li>
   <li><span class="lbl"><i class="fas fa-envelope"></i> E-mail:</span> roby [dot] casadei [at] unibo [dot] it</li>
   <li><span class="lbl"><i class="fas fa-map-marker-alt"></i> Office:</span> Cesena Campus, via dell'Università 50, Cesena, Italy</li>
 <!--  <li>Office hours: by appointment; to be arranged by e-mail</li> -->

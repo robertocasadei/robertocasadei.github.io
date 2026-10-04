@@ -5,6 +5,7 @@ permalink: /research/
 custom_js:
 - /assets/js/jquery.min.js
 - /assets/js/bootstrap.bundle.min.js
+- /assets/js/moment.min.js
 - /assets/js/bibtex_js.js
 description: Roberto Casadei's research themes and peer-reviewed publications.
 ---
