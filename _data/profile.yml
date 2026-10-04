@@ -1,0 +1,30 @@
+# Profile shown in the sidebar of every page.
+name: Roberto Casadei
+honorific: PhD
+role: Associate Professor
+affiliation: DISI – Alma Mater Studiorum, Università di Bologna
+location: Cesena Campus, Italy
+email: roby [dot] casadei [at] unibo [dot] it
+photo: /assets/img/foto.jpg
+links:
+  - name: Institutional page
+    icon: fas fa-university
+    url: https://www.unibo.it/sitoweb/roby.casadei/en
+  - name: Google Scholar
+    icon: fas fa-graduation-cap
+    url: https://scholar.google.it/citations?user=qhfWK44AAAAJ
+  - name: DBLP
+    icon: fas fa-database
+    url: https://dblp.uni-trier.de/pers/hd/c/Casadei:Roberto
+  - name: ORCID
+    icon: fas fa-id-badge
+    url: https://orcid.org/0000-0001-9149-949X
+  - name: Scopus
+    icon: fas fa-book
+    url: https://www.scopus.com/authid/detail.uri?authorId=55358634800
+  - name: GitHub
+    icon: fab fa-github
+    url: https://github.com/metaphori/
+  - name: LinkedIn
+    icon: fab fa-linkedin
+    url: https://www.linkedin.com/in/robertocasadei/

@@ -1,15 +1,33 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en">
 
   {% include head.html %}
 
-  <body class="theme-base-0d">
+  <body>
+    <header class="topbar">
+      <div class="topbar-inner">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.data.profile.name }}</a>
+        {% include nav.html %}
+      </div>
+    </header>
 
-    {% include sidebar.html %}
+    <div class="layout">
+      {% include sidebar.html %}
 
-    <div class="content container">
-      {{ content }}
+      <main class="content">
+        {{ content }}
+      </main>
     </div>
 
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <span>&copy; {{ site.time | date: '%Y' }} {{ site.data.profile.name }}</span>
+        <span>
+          <a href="https://pslab-unibo.github.io/">Pervasive Software Lab</a> ·
+          <a href="https://scafi.github.io/">ScaFi</a> ·
+          <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+        </span>
+      </div>
+    </footer>
   </body>
 </html>

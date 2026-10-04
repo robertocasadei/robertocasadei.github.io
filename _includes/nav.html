@@ -1,8 +1,8 @@
-<nav>
-  <ul class="menu">
+<nav class="site-nav" aria-label="Main">
+  <ul>
   {% for item in site.data.nav %}
     {% assign itemUrl = item.link | append: '/' %}
-    <li><a href="{{ item.link }}" {%if page.url == itemUrl or page.url == item.link %}class="selected_link"{% endif %}>{{item.name}}</a></li>
+    <li><a href="{{ item.link | relative_url }}"{% if page.url == itemUrl or page.url == item.link %} class="active" aria-current="page"{% endif %}>{{ item.name }}</a></li>
   {% endfor %}
   </ul>
 </nav>

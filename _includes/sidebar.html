@@ -1,46 +1,21 @@
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h1>
-        <a href="{{ site.url }}{{ site.baseurl }}/">
-          {{ site.title }}
-        </a>
-      </h1>
-      <p class="lead">{{ site.description }}</p>
-    </div>
+{% assign p = site.data.profile %}
+<aside class="sidebar">
+  <div class="sidebar-inner">
+    <a class="profile" href="{{ '/' | relative_url }}">
+      <img class="profile-photo" src="{{ p.photo | relative_url }}" alt="Photo of {{ p.name }}">
+      <span class="profile-name">{{ p.name }}<span class="profile-honorific">, {{ p.honorific }}</span></span>
+    </a>
+    <p class="profile-role">{{ p.role }}<br>{{ p.affiliation }}</p>
 
-    <ul class="menu">
-      {% for item in site.data.nav %}
-        {% assign itemUrl = item.link | append: '/' %}
-        <li><a href="{{ item.link }}" {%if page.url == itemUrl or page.url == item.link %}class="selected_link"{% endif %}>{{item.name}}</a></li>
-      {% endfor %}
+    <ul class="profile-contact">
+      <li><i class="fas fa-envelope fa-fw"></i> {{ p.email }}</li>
+      <li><i class="fas fa-map-marker-alt fa-fw"></i> {{ p.location }}</li>
     </ul>
 
-    <!--
-
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
+    <ul class="profile-links">
+      {% for l in p.links %}
+      <li><a href="{{ l.url }}" title="{{ l.name }}" aria-label="{{ l.name }}"><i class="{{ l.icon }} fa-fw"></i></a></li>
       {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
-    </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
-  -->
+    </ul>
   </div>
-</div>
+</aside>
